@@ -372,14 +372,9 @@ http://38.41.8.1:8000/play/a02i
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="DEP | beIN SPORTS XTRA" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Real Madrid" tvg-name="DEP | Real Madrid" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Real-Madrid-TV-English.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | Real Madrid 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 tvg-id="ASN" tvg-name="DEP | Adrenalina Sport Network" tvg-logo="https://www.altice.com.do/assets/imgs/premium-channels/asn/asn.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX: Adrenalina Sport Network
-http://andhablfus.online:2082/ibi2308/ibi2308/389749
 
-#EXTINF:-1 tvg-id="DIRECTV S2" tvg-name="DEP | DIRECTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX : DIRECTV Sports 2
-http://andhablfus.online:2082/ibi2308/ibi2308/389718
+
 
 #EXTINF:-1 tvg-id="Combate Global" tvg-name="DEP | Combate Global" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/2021/03/Image-from-iOS-1.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
