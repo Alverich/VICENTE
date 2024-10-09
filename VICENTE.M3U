@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="VIX LIGA MX" tvg-name="DEP | VIX LIGA MX" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",LD - VIX LO MEJOR DE LIGA MX 
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1158436
+
 #EXTINF:-1 tvg-id="VIX LIGA MX" tvg-name="DEP | VIX LIGA MX" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",LD - VIX LO MEJOR DE LIGA 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1158436
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/440266
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (M+ La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="→ EVENTOS FÚTBOL ←",DEP ES | La Liga (M+ La Liga 2)
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/440267
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 01 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 01 || UEFA Champions F⚽X $P0RTS 1 Argentina HD 
 http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30935
@@ -52,7 +58,7 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIigblZ6R
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/52561
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 11 | Liga MX Femenil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 14 | Liga MX Femenil FOX SPORTS PREMIUM FHD (MX)
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1126417
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1126417
 
 #EXTINF:-1 xui-id="293129" tvg-id="" tvg-name="MX | Fox Sports Premium SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | Fox Sports Premium SD
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gJylll8PHYOhQ4ZZm6oxzms/ts
@@ -61,10 +67,10 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gJylll8PH
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gJ9yeU2_FHu7tj1MmnB7deC/ts
 
 #EXTINF:-1 tvg-id="DIRECTV S1" tvg-name="DEP | DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="→ EVENTOS FÚTBOL ←",LD - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1091366
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1091366
 
 #EXTINF:-1 tvg-id=" AZTDEPORT" tvg-name="DEP | AZTECA DEPORTES" tvg-logo="https://seeklogo.com/images/T/tv-azteca-deportes-logo-9DD84735A0-seeklogo.com.png" group-title="→ EVENTOS FÚTBOL ←",LD - AZTECA DEPORTES 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1172659
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1172659
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ EVENTOS FÚTBOL ←",HD | ESPN PREMIUM ᴴᴰ
 http://38.41.8.1:8000/play/a02z
@@ -73,7 +79,7 @@ http://38.41.8.1:8000/play/a02z
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24775
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | LA LIGA MX" tvg-logo="https://pbs.twimg.com/media/Fzv51gGWIAIaMHG?format=jpg&name=4096x4096" group-title="→ EVENTOS FÚTBOL ←",VIX LA LIGA MX | TUDN
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4117
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4117
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="US | TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="→ EVENTOS FÚTBOL ←",US TUDN HD
 https://twomonkeys.live:443/Victor1234/Victor1234/585933
@@ -81,8 +87,8 @@ https://twomonkeys.live:443/Victor1234/Victor1234/585933
 #EXTINF:-1 tvg-id="TUDN" tvg-name="US | TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="→ EVENTOS FÚTBOL ←",US | Deportes T*DN (ᴜsᴀ)
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gLd4nSQ-uSXrnEiZ_YBNv-M/ts
 
-#EXTINF:-1 tvg-id="TUDN" tvg-name="US | TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="→ EVENTOS FÚTBOL ←",US TUDN HD (ᴜsᴀ) (OP2)
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4117
+#EXTINF:-1 tvg-id="TUDN" tvg-name="US | TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="→ EVENTOS FÚTBOL ←",US | TUDN HD (ᴜsᴀ) (OP2)
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/166029
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="US | TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="→ EVENTOS FÚTBOL ←",DLAT | **TD USA HD**
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIcTeiGfuP9U2ReyACrpLeM/ts
@@ -115,7 +121,7 @@ https://twomonkeys.live:443/Victor1234/Victor1234/591573
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24902
 
 #EXTINF:-1 tvg-id="Canal 5*" tvg-name="MX | Canal 5*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="→ EVENTOS FÚTBOL ←",*MX | Canal 5* HD (OP3)***
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155865
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155865
 
 #EXTINF:-1 tvg-id="Canal 5*" tvg-name="MX | Canal 5*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="→ EVENTOS FÚTBOL ←",MX | CANAL 5 HD (OP4)****
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2561
@@ -133,7 +139,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24894
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | Azteca 7 HD (OP3)⭐⭐⭐
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155862
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155862
 
 #EXTINF:-1 xui-id="52" tvg-id="azteca7.mx" tvg-name="HD | Azteca 7" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbd-MeUM9y_wDvsHIPYo0WvSZ-HluAF1TqYFE2RFEpMgxQ0Ty95wdaQfOeQdLOeYiM.png" group-title="→ EVENTOS FÚTBOL ←",HD | Azteca 7 HD ⭐
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gKhBegRLnbiIA7G08r3Nu_W/ts
@@ -145,7 +151,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/74586
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/74604
 
 #EXTINF:-1 tvg-id="DIRECTV S2" tvg-name="DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ EVENTOS FÚTBOL ←",LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/32882
+http://tv.nousiptv.com:8080/guada2019/gfsept2/32882
  
 #EXTINF:-1 tvg-id="aztecaUno.mx" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD ✪
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -171,11 +177,11 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59496
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Azteca Uno" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbuWEHM0ehcNwWfrfy1Z3y6Wme-ONgkEV0ybcAF-ZWW2waeFQpIi5H07y1eHAyzUU8.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",LA_SD_MEX2 : Azteca Uno
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24787
 
-#EXTINF:-1 xui-id="54" tvg-id="lasestrellas.mx" tvg-name="HD | Canal De Las Estrellas" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHnPLYu8HBSbuD_EuFoBObAe8aYG6amd1Ws0qbAPUCXbazGnrq-WG7aO_LJKf82ok.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",HD | Canal De Las Estrellas HD ⭐⭐⭐
-http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2548
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | EL CANAL DE LAS ESTRELLAS HD⭐ (OP1)
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4030
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | LAS ESTRELLAS HD ⭐⭐
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4030
+#EXTINF:-1 xui-id="54" tvg-id="lasestrellas.mx" tvg-name="HD | Canal De Las Estrellas" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHnPLYu8HBSbuD_EuFoBObAe8aYG6amd1Ws0qbAPUCXbazGnrq-WG7aO_LJKf82ok.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",HD | Canal De Las Estrellas HD ⭐⭐ (OP2)
+http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/54491
 
 #EXTINF:-1 tvg-id="" tvg-name="MX || Las Estrellas HD" tvg-logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Las Estrellas HD 1 ⭐
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59598
@@ -199,7 +205,7 @@ https://twomonkeys.live:443/Victor1234/Victor1234/591594
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV" tvg-name="MX | Imagen TV" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb6Om0CfMbJjofFNRtunUMLP-GMUlDDmxGFh05T9N4ZEIpe-8A31-ODcqczyowdrkc.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | IMAGEN
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4149
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1124600
 
 #EXTINF:-1 tvg-id="" tvg-name="MX || Imagen Tv HD" tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Imagen Tv HD
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59633
@@ -214,10 +220,10 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gINo7TC71
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24902
 
 #EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 * HD 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155865
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155865
 
 #EXTINF:-1 tvg-id="XHGC" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | CANAL 5 HD (OP2)⭐⭐ 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4028
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4028
 
 #EXTINF:-1 xui-id="264756" tvg-id="5nacional.mx" tvg-name="MX | Canal 5 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 *
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gKAm_cuZQ3qgnPBYFRoNO-q/ts
@@ -229,7 +235,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24894
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca 7 HD (OP4)⭐⭐⭐⭐
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155862
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155862
 
 #EXTINF:-1 xui-id="52" tvg-id="azteca7.mx" tvg-name="HD | Azteca 7" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbd-MeUM9y_wDvsHIPYo0WvSZ-HluAF1TqYFE2RFEpMgxQ0Ty95wdaQfOeQdLOeYiM.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",HD | Azteca 7 ⭐
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gKhBegRLnbiIA7G08r3Nu_W/ts
@@ -271,10 +277,10 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59490
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59595
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | NU9VE HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | NU9VE HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4031
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4031
 
 #EXTINF:-1 tvg-id="CANAL 9" tvg-name="MX | CANAL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWlQVlUV15IE5qjLyf-nKXfQSjiSqv7v4mEjGzUiJ0cr0XIDDDhxwNULFhNpDi7OPPlE&usqp=CAU" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | NU9VE (OP1)*
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155855
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155855
 
 #EXTINF:-1 xui-id="62" tvg-id="galatv9nacional.mx" tvg-name="MX | Gala TV" tvg-logo="http://offshore.lat:8080/images/10c5a6fbfc082108f1feefc68dbf306b.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Gala TV
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIGyQkYJvJ_pAbXTuu0lcsp/ts
@@ -283,10 +289,10 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIGyQkYJv
 https://twomonkeys.live:443/Victor1234/Victor1234/591632
 
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="MX | UNICABLE" tvg-logo="https://i.pinimg.com/564x/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX - UNICABLE HD ⭐⭐
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4052
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4052
 
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="MX | UNICABLE" tvg-logo="https://i.pinimg.com/564x/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX - UNICABLE FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155852
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155852
 
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-name="MX | ESTRELLA TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX : ESTRELLA TV ● @
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -1110,17 +1116,14 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24804
 #EXTINF:-1 tvg-id="DCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",C | DISCOVERY EN ESPAÑOL (EXCLUSIVO)
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24908
 
-#EXTINF:-1 tvg-id="DCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Channel HD
-http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2686
-
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY EN ESPAÑOL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MyC - DISCOVERY EN ESPAÑOL ⭐⭐
-http://tv.nousiptv.com:8080/Gisella21/AB8935/56304
+http://tv.nousiptv.com:8080/guada2019/gfsept2/56304
 
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MYC - DISCOVERY CHANNEL FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4069
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4069
 
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MyC - DISCOVERY CHANNEL
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155807
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155807
 
 #EXTINF:-1 tvg-id="DCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Discovery Channel
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIIMohpEtL662cJdyycKWyp/ts
@@ -1130,6 +1133,12 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gLBzSMZDB
 
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",DISCOVERY CHANNEL ᴴᴰ
 http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2686
+
+#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | Discovery Channel Lat" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Channel Lat
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/186572
+
+#EXTINF:-1 tvg-id="DCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/93442
 
 #EXTINF:-1 xui-id="1188" tvg-id="" tvg-name="ES | Discovery Channel" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiD0CykP2w1ug1a87N7OeuCJuj8Y-VS1-ae74m0AYak2lu1TEttHxicROxCW06UKhQ.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",ES | DISCOVERY HD ESPAÑA ᴴᴰ
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gLSjXKg1xV3-mUFbBsQw90Q/ts
@@ -1150,10 +1159,13 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59439
 http://38.41.8.1:8000/play/a017
 
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC - DISCOVERY HOME & HEALTH ᴴᴰ @
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155816
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155816
 
-#EXTINF:-1 tvg-id="DWORLD HD" tvg-name="CUL | WORLD " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC - DISCOVERY WORLD HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155812
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MYC - DISCOVERY HOME & HEALTH HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4070
+
+#EXTINF:-1 tvg-id="DW" tvg-name="CUL | Discovery World" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",DISCOVERY WORLD LAT (OP1)⭐
+http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30610
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL• DISCOVERY WORLD (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/423
@@ -1170,8 +1182,8 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/425
 #EXTINF:-1 tvg-id="DW" tvg-name="CUL | Discovery World" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",DOC-Discovery World (L)(1080)
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/425
 
-#EXTINF:-1 tvg-id="DW" tvg-name="CUL | Discovery World" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",DISCOVERY WORLD LAT (OP1)⭐
-http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30610
+#EXTINF:-1 tvg-id="DWORLD HD" tvg-name="CUL | WORLD " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC - DISCOVERY WORLD HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4076
 
 #EXTINF:-1 tvg-id="DT" tvg-name="CUL | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC - DISCOVERY THEATER ᴴᴰ
 http://tv.nousiptv.com:8080/Gisella21/AB8935/4119
@@ -1195,7 +1207,7 @@ https://castlempire.site:443/HenryArevalo/Arevalo2011/171007.ts
 https://castlempire.site:443/HenryArevalo/Arevalo2011/171006.ts
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="CUL | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | HGTV ᴴᴰ
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155823
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155823
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="CUL | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | HGTV ᴴᴰ
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30822
@@ -1219,7 +1231,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/421
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/422
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="CUL | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",DOC-Discovery TURBO 4K ᴴᴰ (L)(1080)
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4075
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155871
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="CUL | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Turbo ᴴᴰ
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2690
@@ -1249,10 +1261,10 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/441
 http://38.41.8.1:8000/play/a01p
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="CUL | Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",NAT GEO HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/3774
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4097
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="CUL | DISCOVERY SCIENCE" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/Discovery-Science-Logo.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",DOC-Discovery Science ᴴᴰ (L)(1080)
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155818
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155818
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="CUL | DISCOVERY SCIENCE" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/Discovery-Science-Logo.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY SCIENCE
 https://castlempire.site:443/HenryArevalo/Arevalo2011/171005.ts
@@ -1365,8 +1377,11 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/415
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/416
 
 
-#EXTINF:-1 tvg-id="ESPNMX" tvg-name="DEP | ESPN" tvg-logo="https://www.mediamoves.com/wp-content/uploads/2013/03/ESPN-ESPND-LIGAMX2.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | ESPN 1 HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155888
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="https://www.mediamoves.com/wp-content/uploads/2013/03/ESPN-ESPND-LIGAMX2.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/9380
+
+#EXTINF:-1 tvg-id="ESPNMX" tvg-name="DEP | ESPN" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | ESPN 1 HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155892
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN MX (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP• ESPN MX (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/523
@@ -1417,7 +1432,7 @@ http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/51156
 http://38.41.8.1:8000/play/a00c
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP | E$PN 2  4K" tvg-logo="https://i.postimg.cc/XYTX2Fy2/espn24k.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | ESPN 2 HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1118923
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1118923
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="DEP | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",ES*PN ARG 3 HD
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/31026
@@ -1426,7 +1441,7 @@ http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/31026
 http://38.41.8.1:8000/play/a00t
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="DEP | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | ESPN 3 HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155903
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155903
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="DEP | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP• FOX SPORTS 1 AR (HD) »4«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/525
@@ -1453,6 +1468,7 @@ http://38.41.8.1:8000/play/a00u
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/453
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",ESPN 7 (HD) »2«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »2«
+http://tv.nousiptv.com:8080/guada2019/gfsept2/42456
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",ESPN 7 (HD) »3«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/530
@@ -1461,10 +1477,10 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/530
 http://38.41.8.1:8000/play/a01d
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="DEP | ESPN EXTRA" tvg-logo="https://i.imgur.com/KuGa8.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",LD - ESPN EXTRA SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/43638
+http://tv.nousiptv.com:8080/guada2019/gfsept2/43638
 
 #EXTINF:-1 tvg-id="ESPNDEPORT" tvg-name="DEP | ESPN DEPORTES" tvg-logo="https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",LD - ESPN DEPORTES HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155891
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155891
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="DEP | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ESPN PREMIUM ᴴᴰ
 http://38.41.8.1:8000/play/a02z
@@ -1479,10 +1495,10 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIcTeiGfu
 http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gLDzYa_PWbHcXXK1Xma1jKs/ts
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN DEPORTES" tvg-logo="https://elcomercio.pe/resizer/OXRo5UCRVmGzj2diLubZccAFt-w=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IYZJUZOI6ZERXCQKTRJWKOAU64.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",FHD | TUDN DEPORTES FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/3962
+http://tv.nousiptv.com:8080/guada2019/gfsept2/3962
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN DEPORTES" tvg-logo="https://assets.goal.com/images/v3/bltfa70befb7ae6aee1/1440x810-2x.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | TUDN DEPORTES HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4117
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4117
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN DEPORTES" tvg-logo="https://img.utdstc.com/icon/706/9d3/7069d3d76f388bfada65667b6cb6e486e4a4c36e8e89db639cfe12ef51187c6e:200" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | DLAT | TU*DN
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/57110
@@ -1503,18 +1519,18 @@ http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIsYxJEAF
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24771
 
 #EXTINF:-1 tvg-id="FS1" tvg-name="DEP | FOX SPORTS 1 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156755
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156755
 
 #EXTINF:-1 tvg-id="FS2" tvg-name="DEP | FOX SPORTS 2 MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtoRQx5k5Wgs-mpBxOQoiyAhqww4Afjkp5ZL9_2u7_MdQ3Q5D9Hx5Ogjqpuudmp_kr1Y_1SL3v_u3yeiZcrYG8Waddhh-mzghZuoy2EtDlv5ZbeWReV-GYHe800D4QHC_7qn5-KAN1PQZjbiu4M59kr7qR3htD4LnHCr_R45uDdcJ4BrVe0b_Uun6/s486/fs2-logo2022.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 2
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156756
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156756
 
 #EXTINF:-1 tvg-id="FOXS3MEX" tvg-name="DEP | FOX SPORTS 3 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | FOX SPORTS 3 HD MEX
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156757
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156757
 
 #EXTINF:-1 tvg-id="FOXS3MEX" tvg-name="DEP | FOX SPORTS 3 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | Fox Sports 3 Latino HD
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3092
 
-#EXTINF:-1 #EXTINF:-1 tvg-id="FOXS1" tvg-name="DEP | FOX SPORTS ARG" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="⚽LIGA | MÉXICO HD⚽",Fox Sports 1 Argentina HD 
+#EXTINF:-1 tvg-id="FOXS1" tvg-name="DEP | FOX SPORTS ARG" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="⚽LIGA | MÉXICO HD⚽",Fox Sports 1 Argentina HD 
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30935
 
 #EXTINF:-1 tvg-id="FS2" tvg-name="DEP | FOX SPORTS 2 AR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtoRQx5k5Wgs-mpBxOQoiyAhqww4Afjkp5ZL9_2u7_MdQ3Q5D9Hx5Ogjqpuudmp_kr1Y_1SL3v_u3yeiZcrYG8Waddhh-mzghZuoy2EtDlv5ZbeWReV-GYHe800D4QHC_7qn5-KAN1PQZjbiu4M59kr7qR3htD4LnHCr_R45uDdcJ4BrVe0b_Uun6/s486/fs2-logo2022.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 2 AR ᴴᴰ
@@ -1550,14 +1566,20 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24775
 #EXTINF:-1 tvg-id="FOXS1" tvg-name="DEP | FOX SPORTS ARG" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",Fox Sports 1 Argentina HD 
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30935
 
-#EXTINF:-1 tvg-id="FS2ARH2" tvg-name="DEP | FOX SPORTS 2 AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | FOX SPORTS 2 AR ᴴᴰ
-http://tv.nousiptv.com:8080/Gisella21/AB8935/16139
+#EXTINF:-1 tvg-id="FOXS1" tvg-name="DEP | FOX SPORTS ARG" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="⚽LIGA | MÉXICO HD⚽",LD - FOX SPORTS 1 ARG HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1208267
 
-#EXTINF:-1 tvg-id="Afizzionados" tvg-name="DEP | Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEPORTE: Afizzionados deporte MX
-http://home-playtv.com:8080/RoltyFndz/GBQGK/54984
+#EXTINF:-1 tvg-id="FS2ARH2" tvg-name="DEP | FOX SPORTS 2 AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | FOX SPORTS 2 AR ᴴᴰ
+http://tv.nousiptv.com:8080/guada2019/gfsept2/16139
+
+#EXTINF:-1 tvg-id="FOXS3A" tvg-name="DEP | FOX SPORTS 3 AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",LD - FOX SPORTS 3 ARG HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/33475
+
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="DEP | Afizzionados HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP | Afizzionados HD
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/54984
 
 #EXTINF:-1 tvg-id=" AZTDEPORT" tvg-name="DEP | AZTECA DEPORTES" tvg-logo="https://seeklogo.com/images/T/tv-azteca-deportes-logo-9DD84735A0-seeklogo.com.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | AZTECA DEPORTES 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1172659
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1172659
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="DEP | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | TyC Sports
 http://38.41.8.1:8000/play/a02i
@@ -1571,11 +1593,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-id="ITV Deportes" tvg-name="DEP | ITV Deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/itv_deportes_16x9_2.jpg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
-#EXTINF:-1 tvg-id="AFIZZIONADOS" tvg-name="DEP | AFIZZIONADOS" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | AFIZZIONADOS HD
-https://castlempire.site:443/HenryArevalo/Arevalo2011/181260.ts
-
 #EXTINF:-1 tvg-id="VIX LIGA MX" tvg-name="DEP | VIX LIGA MX" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="⚽LIGA | MÉXICO HD⚽",MX | CANAL VIX LO MEJOR LIGA MX 
 https://twomonkeys.live:443/Victor1234/Victor1234/591705
+
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="DEP | Afizzionados HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="⚽LIGA | MÉXICO HD⚽",DEP | Afizzionados HD
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/54984
 
 #EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⚽LIGA | MÉXICO HD⚽",MX | CANAL 5 HD (OP1)*
 https://twomonkeys.live:443/Victor1234/Victor1234/591573 
@@ -1584,10 +1606,13 @@ https://twomonkeys.live:443/Victor1234/Victor1234/591573
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24902
 
 #EXTINF:-1 tvg-id="CANAL 5" tvg-name="DEP | CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="⚽LIGA | MÉXICO HD⚽",MX : CANAL 5
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4028
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155865
 
 #EXTINF:-1 xui-id="61" tvg-id="azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbSSDrs7tA38eByAjgVNzhHZkrTUtb8ko2OCCKEIQwF6YHgt-Cnb_5DhKICJFQDSeM.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | Azteca 7⭐
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24894
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" group-title="⚽LIGA | MÉXICO HD⚽",MX - AZTECA 7 FHD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4027
 
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2 : Azteca 7" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbSSDrs7tA38eByAjgVNzhHZkrTUtb8ko2OCCKEIQwF6YHgt-Cnb_5DhKICJFQDSeM.png" group-title="⚽LIGA | MÉXICO HD⚽",MEX2 : Azteca 7
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24788
@@ -1599,22 +1624,31 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24894
 
 #EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://pbs.twimg.com/media/Fzv51gGWIAIaMHG?format=jpg&name=4096x4096" group-title="⚽LIGA | MÉXICO HD⚽",VIX LA LIGA MX | TUDN
-http://twomonkeys.live:80/Miguel1234/Miguel1234/585933
+https://twomonkeys.live:443/Victor1234/Victor1234/591705
 
 #EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="⚽LIGA | MÉXICO HD⚽",*DEPORTES T!DN HD *
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoLzQrh2XO4gjObW6xXoGQGHupQ9-nCAhrGl1DJLGEqTa6/ts
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/54984
 
-#EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | TUDN HD⭐
-http://twomonkeys.live:80/Miguel1234/Miguel1234/931778
+#EXTINF:-1 xui-id="311893" tvg-id="tudn.mx" tvg-name="MX | TUDN OP 1" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgM7zn1ErXx0SztB8tlaum1k20a-3ZUAd_X12wiCpSozj8xjqzNhKgSRROrmx6h9EA.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | TUDN OP 1
+http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gL4oXOdBTQLi1JqGIIpQShH/ts
+
+#EXTINF:-1 xui-id="245567" tvg-id="tudn.mx" tvg-name="MX | TUDN OP 2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgM7zn1ErXx0SztB8tlaum1k20a-3ZUAd_X12wiCpSozj8xjqzNhKgSRROrmx6h9EA.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | TUDN OP 2
+http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gLNlVvsxK71f3DFE7Ssq8Em/ts
+
+#EXTINF:-1 xui-id="326801" tvg-id="tudn.mx" tvg-name="MX | TUDN OP 3" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgM7zn1ErXx0SztB8tlaum1k20a-3ZUAd_X12wiCpSozj8xjqzNhKgSRROrmx6h9EA.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | TUDN OP 3
+http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gJlPSinAyBIDqiwUUrbzx51/ts
+
+#EXTINF:-1 xui-id="300924" tvg-id="" tvg-name="MX | ZONA TUDN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZUMQ14677bwtaeA_KwPo73BS0fj3-IB669AN9ixpXsmQzU_a3qn8BhMs0hA2H8Ymk.jpeg" group-title="⚽LIGA | MÉXICO HD⚽",MX | ZONA TUDN
+http://offshore.lat:8080/play/-im5PJ_TwG-kli0V6zcSUl40f8Kez-n93oN8AnnB5gIsYxJEAFzTabt_YsYsqjri/ts
+
+#EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | DEP• TUDN MX (HD) »1«
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/553
 
 #EXTINF:-1 tvg-id="T*DN" tvg-name="DEP | T*DN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | T*DN HD **
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL2jTE2vmYA4ETEQlnWWSAYifI339rgbUiGK1AE5sOLQX/ts
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/218637
 
-#EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="⚽LIGA | MÉXICO HD⚽",TUDN MX HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/3962
-
-#EXTINF:-1 tvg-id="T*DN" tvg-name="DEP | T*DN" tvg-logo="https://images.vix.com/prd/channel-landscape/64dd342490e3af57564b863e/feeadfa6920a72d4130bfc7604ba5937?tr=w-1200h-627f-jpeg" group-title="⚽LIGA | MÉXICO HD⚽",TUDN MX HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4117
+#EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="⚽LIGA | MÉXICO HD⚽",DEP• TUDN MX (HD) »2«
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/552
 
 #EXTINF:-1 tvg-id="T*DN" tvg-name="DEP | T*DN USA" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="⚽LIGA | MÉXICO HD⚽",US | TUDN HD
 https://twomonkeys.live:443/Victor1234/Victor1234/591686
@@ -1638,112 +1672,86 @@ http://tv.nousiptv.com:8080/Gisella21/AB8935/1156756
 http://tv.nousiptv.com:8080/Gisella21/AB8935/1156757
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://elcomercio.pe/resizer/OXRo5UCRVmGzj2diLubZccAFt-w=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IYZJUZOI6ZERXCQKTRJWKOAU64.jpg" group-title="⚽ TUDN ⚽ HD",LD - TUDN DEPORTES FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/3962
+http://tv.nousiptv.com:8080/guada2019/gfsept2/3962
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://assets.goal.com/images/v3/bltfa70befb7ae6aee1/1440x810-2x.jpg" group-title="⚽ TUDN ⚽ HD",LD - TUDN DEPORTES HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4117
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4117
 
 #EXTINF:-1 tvg-id="TUDN USA" tvg-name="DEP | TUDN USA" tvg-logo="https://img.utdstc.com/icon/706/9d3/7069d3d76f388bfada65667b6cb6e486e4a4c36e8e89db639cfe12ef51187c6e:200" group-title="⚽ TUDN ⚽ HD",LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156010
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156010
 
 #EXTINF:-1 tvg-id="ESPN1" tvg-name="DEP | ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ESPN HD⚽",LD - ESPN 1 SUR ᴴᴰ
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155888
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155888
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="DEP | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ESPN HD⚽",LD | ESPN ᴴᴰ
 http://38.41.8.1:8000/play/a01i
 
-#EXTINF:-1 tvg-id="ESPN1" tvg-name="DEP | ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ESPN HD⚽",LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/33469
-
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="DEP | ESPN 2" tvg-logo="https://izquierdazo.com/__export/1701882169213/sites/izquierdazo/img/2023/02/02/20230202_101820768_xCxmo_ver_Starx_en_Latinoamxricax_Qux_peleas_de_box_transmitex_cxmo_se_usa_y_en_qux_paxses_estx_disponible.jpg_778525118.jpg" group-title="⚽ESPN HD⚽",LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/43637
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="DEP | ESPN 2" tvg-logo="https://izquierdazo.com/__export/1701882169213/sites/izquierdazo/img/2023/02/02/20230202_101820768_xCxmo_ver_Starx_en_Latinoamxricax_Qux_peleas_de_box_transmitex_cxmo_se_usa_y_en_qux_paxses_estx_disponible.jpg_778525118.jpg" group-title="⚽ESPN HD⚽",LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155889
+http://tv.nousiptv.com:8080/guada2019/gfsept2/43637
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="DEP | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN 3 SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155890
-
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="DEP | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/43639
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155890
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="DEP | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽ESPN HD⚽",LD - ESPN 4 SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1118360
-
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="DEP | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽ESPN HD⚽",LD - ESPN 4 SUR SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/18580
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1118360
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-name="DEP | ESPN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTyex4xMFv8Byk6-Pbk174yEYTix28kEGfwR9ckgVFuUD_VDqHj5QvzPckWlJNtUdqQ&usqp=CAU" group-title="⚽ESPN HD⚽",LD - ESPN 5 SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1198287
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1198287
 
 #EXTINF:-1 tvg-id="ESPN6" tvg-name="DEP | ESPN 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ixnNoD8_GlknOL9x4UNnyklGU_95vdS82w&s" group-title="⚽ESPN HD⚽",LD - ESPN 6 SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1197851
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1197851
+
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ESPN HD⚽",LD -  ESPN 7 SUR HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/42456
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="DEP | ESPN EXTRA" tvg-logo="https://i.imgur.com/KuGa8.png" group-title="⚽ESPN HD⚽",LD - ESPN EXTRA SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/43638
+http://tv.nousiptv.com:8080/guada2019/gfsept2/43638
 
 #EXTINF:-1 tvg-id="ESPN1 CH" tvg-name="DEP | ESPN CH" tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN CHILE HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1080110
-
-#EXTINF:-1 tvg-id="ESPN1 CH" tvg-name="DEP | ESPN CH" tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN CHILE SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1080111
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1080110
 
 #EXTINF:-1 tvg-id="ESPN1 BRA" tvg-name="DEP | ESPN BRA" tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN 1 BRASIL FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1159095
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1159095
 
 #EXTINF:-1 tvg-id="ESPN2 BRA" tvg-name="DEP | ESPN BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="⚽ESPN HD⚽",LD - ESPN 2 BRASIL FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1159096
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1159096
 
 #EXTINF:-1 tvg-id="ESPN3 BRA" tvg-name="DEP | ESPN BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN 3 BRASIL 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1159093
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1159093
 
 #EXTINF:-1 tvg-id="ESPN4 BRA" tvg-name="DEP | ESPN BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽ESPN HD⚽",LD - ESPN 4 BRASIL FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1147322
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1147322
 
 #EXTINF:-1 tvg-id="ESPNEXTRA BRA" tvg-name="DEP | ESPN BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽ESPN HD⚽",LD - ESPN EXTRA BRASIL FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1159094
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1159094
 
 #EXTINF:-1 tvg-id="ESPN1MX" tvg-name="DEP | ESPN 1" tvg-logo="https://www.mediamoves.com/wp-content/uploads/2013/03/ESPN-ESPND-LIGAMX2.jpg" group-title="⚽ESPN HD⚽",LD - ESPN 1 MX SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155892
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155892
 
 #EXTINF:-1 tvg-id="ESPN2MX" tvg-name="DEP | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ESPN HD⚽",LD - ESPN 2 MX HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1118923
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1118923
 
 #EXTINF:-1 tvg-id="ESPN3MX" tvg-name="DEP | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ESPN HD⚽",LD - ESPN 3 MX HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155903
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155903
 
 #EXTINF:-1 tvg-id="ESPNPLUSMX" tvg-name="DEP | ESPN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="⚽ESPN HD⚽",LD - ESPN PLUS MX
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4120
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4120
 
 #EXTINF:-1 tvg-id="ESPNDEPORT" tvg-name="DEP | ESPN DEPORTES" tvg-logo="https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg" group-title="⚽ESPN HD⚽",LD - ESPN DEPORTES HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155891
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155891
 
 #EXTINF:-1 tvg-id="ESPN7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ESPN HD⚽",LD - ESPN 7 SUR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/42456
+http://tv.nousiptv.com:8080/guada2019/gfsept2/42456
 
 #EXTINF:-1 tvg-id="VIX LIGA MX" tvg-name="DEP | VIX LIGA" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="⚽ESP | LA-LIGA⚽ HD",LD - VIX LO MEJOR DE LA LIGA  
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1158436
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1158436
 
 #EXTINF:-1 tvg-id="M+ LA *LIGA" tvg-name="DEP | M+  LA *LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | M+  LA *LIGA
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZlZrZA3eM6_7m_11UO7q7ub/ts
-
-#EXTINF:-1 tvg-id="M+ LA *LIGA" tvg-name="DEP | **M+ LA *LIGA HD**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | **M+ LA *LIGA HD**
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZnmYAvNK_7EtvfqjPZoPakc/ts
-
-#EXTINF:-1 tvg-id="M+ LA *LIGA" tvg-name="DEP | **M+ LA *LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | **M+ LA *LIGA FHD**
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZnrL9jVqdPLgvcwRS20U2Ad/ts
-
-#EXTINF:-1 tvg-id="M+ LA *LIGA" tvg-name="DEP | **M+ LA *LIGA 1**" tvg-logo="https://sportbusinessbrand.com/wp-content/uploads/2022/09/LA-LIGA-LOGO.png" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | **M+ LA *LIGA 1**
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZkw3sAocEyZQ38g2mTicgQ8/ts
-
-#EXTINF:-1 tvg-id="D@ZN M+ 1" tvg-name="DEP | D@ZN M+ 1" tvg-logo="https://bokulsports.com/upload/channel/20240313_233806.jpg" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | D@ZN M+ 1 HD
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZmROMtnQYN5Qq2hGzJc_uB-/ts
-
-#EXTINF:-1 tvg-id="D@ZN M+ 1" tvg-name="DEP | D@ZN M+ 1" tvg-logo="https://bokulsports.com/upload/channel/20240313_233806.jpg" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | D@ZN M+ 1 FHD.
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZlVtQsVdcLuPYqGof-3uCLY/ts
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1205959
 
 #EXTINF:-1 tvg-id="D@ZN M+ 1" tvg-name="DEP | D@ZN M+ 1" tvg-logo="https://bokulsports.com/upload/channel/20240313_233806.jpg" group-title="⚽ESP | LA-LIGA⚽ HD",ESP | D@ZN M+ 2 HD
-http://novared.pro:80/play/T_ge5nwFjZZm_zRd9-yoL_vzK1RJ1wOp5J0p62W3pZl0sy_bQTuwAIFGnpw2q94m/ts
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1205960
+
 
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S • HBO FAMILY (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",C/S• HBO FAMILY (HD) »1«
@@ -1786,10 +1794,10 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/134
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/147
 
 #EXTINF:-1 tvg-id="HBOPOLA" tvg-name="CINE | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE : HBO POP HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/8246
+http://tv.nousiptv.com:8080/guada2019/gfsept2/8246
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="CINE | HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE : HBO Xtreme HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/8226
+http://tv.nousiptv.com:8080/guada2019/gfsept2/44341
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="CINE | HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | HBO Xtreme HD
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2695
@@ -1816,7 +1824,7 @@ http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30415
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/142
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="CINE | GOLDEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Golden_2007-2010.png/revision/latest?cb=20191215191411&path-prefix=es" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | GOLDEN FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155790
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155790
 
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »1«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | GOLDEN (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/127
@@ -1825,7 +1833,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/127
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2639
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="CINE | GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | GOLDEN EDGE FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155791
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155791
 
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-name="C/S• GOLDEN (HD) »2«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | GOLDEN EDGE (HD) »2«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/128
@@ -1840,13 +1848,13 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/129
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/49061
 
 #EXTINF:-1 tvg-id="De Película" tvg-name="CINE | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE : De Pelicula plus ● @
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155788
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155788
 
 #EXTINF:-1 tvg-id="De Película" tvg-name="CINE | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | De Película
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2624
 
 #EXTINF:-1 tvg-id="De Película" tvg-name="CINE | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | De Película FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155786
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155786
 
 #EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA CLASICO (HD) »1«" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | DE PELÍCULA CLASICO (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/182
@@ -1859,7 +1867,6 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/183
 
 #EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA PLUS (HD)" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | De Película Plus
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2625
-
 
 #EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »2«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | STUDIO UNIVERSAL (HD) »2«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/219
@@ -1883,13 +1890,13 @@ http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/50469
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/56568
 
 #EXTINF:-1 tvg-id="Universal Reality" tvg-name="CINE | Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Universal Reality
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119205
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119205
 
 #EXTINF:-1 tvg-id="Universal Reality" tvg-name="CINE | Universal Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE |Universal Premiere HD
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/50470
 
 #EXTINF:-1 tvg-id="Universal Reality" tvg-name="CINE | Universal Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - UNIVERSAL PREMIER OESTE
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119201
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119201
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-name="CINE | Golden" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Golden Plus HD
 http://38.41.8.1:8000/play/a028
@@ -1898,10 +1905,10 @@ http://38.41.8.1:8000/play/a028
 http://38.41.8.1:8000/play/a019
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | STAR CHANNEL FHD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4022
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4022
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | STAR CHANNEL HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4121
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4121
 
 #EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | STAR CHANNEL (HD) »3«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/162
@@ -1909,11 +1916,11 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/162
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »1«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",C/S• SONY (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/199
 
-#EXTINF:-1 xui-id="289416" tvg-id="sonyhd.mx" tvg-name="HD | SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",HD | SONY
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155800
-
 #EXTINF:-1 xui-id="289416" tvg-id="sonyhd.mx" tvg-name="HD | SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",HD |SONY (OP2)
 https://twomonkeys.live:443/Victor1234/Victor1234/602740
+
+#EXTINF:-1 xui-id="289416" tvg-id="sonyhd.mx" tvg-name="HD | SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",HD | SONY
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4048
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="CINE | Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Cine Sony HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -1925,34 +1932,37 @@ http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30414
 http://chiletv.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/52273
 
 #EXTINF:-1 tvg-id="SONY" tvg-name="CINE | SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | SONY HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155800
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155800
 
 #EXTINF:-1 tvg-id="SONY" tvg-name="CINE | SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/langes-1500px-Sony_Movies_Logo.svg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | SONY MOVIES HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1143816
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1143816
 
 #EXTINF:-1 tvg-id="Paramount" tvg-name="CINE | Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Paramount HD
 http://38.41.8.1:8000/play/a01x
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETW" tvg-name="CINE | PARAMOUNT NETWORK" tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | PARAMOUNT NETWORK HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155799
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155799
+
+#EXTINF:-1 tvg-id="PARAMOUNT NETW" tvg-name="CINE | PARAMOUNT NETWORK" tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - PARAMOUNT NETWORK
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4065
 
 #EXTINF:-1 tvg-id="STAR+" tvg-name="CINE | STAR+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Star%2BAppLA.png/revision/latest/scale-to-width-down/250?cb=20231228212708" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | CINE STAR+
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1200684
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1200684
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="CINE | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - AMC
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4118
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4118
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="CINE | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | AMC HD
 http://38.41.8.1:8000/play/a01s
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="CINE | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | AMC HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4085
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4085
 
 #EXTINF:-1 tvg-id="CINE LAT" tvg-name="CINE | CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - CINE LATINO
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4136
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4136
 
 #EXTINF:-1 tvg-id="CINE DINAM" tvg-name="CINE | CINE DINAMITA" tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - CINEMA DINAMITA
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4142
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4142
 
 #EXTINF:-1 tvg-id="AZ Cinema" tvg-name="CINE | AZ Cinema" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE : AZ Cinema Azteca ●
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24783
@@ -1961,13 +1971,13 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24783
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24800
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINE | Cinecanal" tvg-logo="https://seeklogo.com/images/C/Cinecanal-logo-C68A0CF747-seeklogo.com.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | CINECANAL
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155785
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155785
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINE | Cinecanal" tvg-logo="https://seeklogo.com/images/C/Cinecanal-logo-C68A0CF747-seeklogo.com.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Cinecanal HD
 http://38.41.8.1:8000/play/a01r
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINE | Cinemax" tvg-logo="http://offshore.lat:25461/images/1429e7a678f1fdbaeab949d19884e26b.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - CINEMAX
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1068350
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1068350
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINE | Cinemax" tvg-logo="http://offshore.lat:25461/images/1429e7a678f1fdbaeab949d19884e26b.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Cinemax FHD
 http://38.41.8.1:8000/play/a00y
@@ -1982,61 +1992,61 @@ http://38.41.8.1:8000/play/a00a
 http://38.41.8.1:8000/play/a01a
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="CINE | UNIVERSAL CHANNEL" tvg-logo="https://i.pinimg.com/736x/c4/84/5f/c4845f3809f948589564690fbc01ef90.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL CHANNEL HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156005
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156005
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="CINE | UNIVERSAL CHANNEL" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/640px-Universal_TV_2018.svg.png&w=640&q=50" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL TV HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4054
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4054
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="CINE | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | STUDIO UNIVERSAL HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4100
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4100
 
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="CINE | UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZK2hpbxVppp-t4HGfdX874Ei-kTaqQ0ChFPHfNuSjgg&s" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL REALITY HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119205
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119205
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="CINE | UNIVERSAL CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEJQGwuHOt8jDr97tPOavCXDtXlNDD9xr-PK7wXq74w&s" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL CINEMA HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119206
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119206
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME OESTE" tvg-name="CINE | UNIVERSAL CRIME OESTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRwZs5eSQP90tIePi4KgzJ8G38kx8hKF23hXPIR8xWg&s" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL CRIME OESTE HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119200
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119200
 
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIER OESTE" tvg-name="CINE | UNIVERSAL PREMIER OESTE" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL PREMIER OESTE HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119201
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119201
 
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="CINE | UNIVERSAL COMEDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTmv7LazPZ2LQSdtyLo3QwGPX5eHt7sZv3sqd1Pgf6HA&s" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL COMEDY HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119202
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119202
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME ESTE" tvg-name="CINE | UNIVERSAL CRIME ESTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTmv7LazPZ2LQSdtyLo3QwGPX5eHt7sZv3sqd1Pgf6HA&s" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL CRIME ESTE HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119203
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119203
 
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIER ESTE" tvg-name="CINE | UNIVERSAL PREMIER ESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | UNIVERSAL PREMIER ESTE HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1119204
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119204
 
 #EXTINF:-1 tvg-id="MOVIE CENTER PREMIUM" tvg-name="CINE | MOVIE CENTER PREMIUM" tvg-logo="https://i.pinimg.com/564x/76/9c/1f/769c1fe84f35443be28d61396cad174a.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | MOVIE CENTER PREMIUM HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1147993
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1119203
 
 #EXTINF:-1 tvg-id="CINEMA ANIME" tvg-name="CINE | CINEMA ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvWHuPfvUBa91KSkjFGTfleQ3hghugQE8L3PDs6JhfxqNFrw27Vz4MBODYmZez1B7vcHRDLg88xMa6RIXeKL0BiDewQPF19oCMoF0ynci87wnmAs-76tnBNj05pXiaCNBGwdbnIshrxe54zhYTDviwP-uGc6NfX7j0k3IG_-qLJvsYVjioxVZclgW37A/s1920/cinemanime-tvlaint.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | CINEMA ANIME HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1148843
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1148843
 
 #EXTINF:-1 tvg-id="DISNEY PIXAR" tvg-name="CINE | DISNEY PIXAR" tvg-logo="https://e7.pngegg.com/pngimages/499/842/png-clipart-disney-channel-the-walt-disney-company-television-channel-television-show-others-television-text.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | CINEMA DISNEY PIXAR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155781
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155781
 
 #EXTINF:-1 tvg-id="CINEMA HORROR" tvg-name="CINE | CINEMA HORROR" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/imagen_somos_fast_grande.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | CINEMA HORROR HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156006
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156006
 
 #EXTINF:-1 tvg-id="CINE ESTELAR" tvg-name="CINE | CINE ESTELAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CineEstelar.png/revision/latest?cb=20220615035100&path-prefix=es" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE - ESTELAR
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156007
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156007
 
 #EXTINF:-1 tvg-id="CINEMA FAMILIA" tvg-name="CINE | CINEMA FAMILIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlzt_1rd9k_c2lcWR2MC8gy6sgySddaC8nYXwFT1a2XTYzUpeoEi6-kPJBXCqAMFJej34&usqp=CAU" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | CINEMA FAMILIA
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1156760
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1156760
 
 #EXTINF:-1 tvg-id="MULTICINEMA" tvg-name="CINE | MULTICINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Multicinema1998.jpg/revision/latest?cb=20230304224649&path-prefix=es" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | MULTICINEMA HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1148845
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1148845
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="CINE | Warner Channel" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | Warner Channel HD
 http://38.41.8.1:8000/play/a008
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="CINE | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | TNT HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4010
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4010
 
 #EXTINF:-1 tvg-id="Canela Clasicos" tvg-name="CINE | Canela Clasicos" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/SamsungTVPlus_PartnerAsset.png" group-title="⭐⭐CINE MEXICANO HD⭐⭐",CINE | Canela Clasicos HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
@@ -2047,9 +2057,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="Accion Mexicana" tvg-name="CINE | Acción Mexicana" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="⭐⭐CINE MEXICANO HD⭐⭐",CINE | Acción Mexicana HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 tvg-id="Flou Cine" tvg-name="CINE | Flou Cine" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-flou_cine-16x9.jpg" group-title="⭐⭐CINE MEXICANO HD⭐⭐",CINE | Flou Cine
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="De Película" tvg-name="CINE | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE : De Pelicula Clásico ● @
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/183
 
@@ -2057,7 +2064,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/183
 https://twomonkeys.live:443/Victor1234/Victor1234/1070808
 
 #EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA PLUS (HD)" tvg-logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="⭐⭐CINE PREMIUM HD⭐⭐",CINE | DE PELÍCULA PLUS (HD)
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155788
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155788
 
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-name="CINE | Cine Sureno" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="⭐⭐CINE MEXICANO HD⭐⭐",CINE | Cine Sureno
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -2145,7 +2152,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12023
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/103
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="CyS | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="⚡️CINE & SERIES HD⚡️",CyS| A&E HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4037
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4037
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="CyS | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="⚡️CINE & SERIES HD⚡️",CyS | A&E HD
 http://38.41.8.1:8000/play/a006
@@ -2154,7 +2161,7 @@ http://38.41.8.1:8000/play/a006
 http://38.41.8.1:8000/play/a07v
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="CyS | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png" group-title="⚡️CINE & SERIES HD⚡️",CyS | TNT SERIES HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4050
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4050
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="CyS | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png" group-title="⚡️CINE & SERIES HD⚡️",CyS | TNT Series HD
 http://38.41.8.1:8000/play/a01g
@@ -2172,10 +2179,10 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/108
 http://38.41.8.1:8000/play/a009
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="CyS | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/800px-AXN_Logo.PNG" group-title="⚡️CINE & SERIES HD⚡️",CyS : AXN HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4038
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4038
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="CyS | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="⚡️CINE & SERIES HD⚡️",CyS | AXN HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155784
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155784
 
 #EXTINF:-1 tvg-id="STAR TVE" tvg-name="CyS | STAR TVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Star_TVE.png/revision/latest?cb=20200124195810&path-prefix=es" group-title="ESPAÑA SERIES HD",CyS | STAR TVE HD
 http://38.41.8.1:8000/play/a01z
@@ -2193,7 +2200,7 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DC" tvg-name="ENT | DC DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/640px-DistritoComediaLOGO2018.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | DC DISTRITO COMEDIA HD 
-http://tv.nousiptv.com:8080/Gisella21/AB8935/4040
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4040
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX| Distrito Comedia ." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="☢️ENTRETENIMIENTO HD☢️",MEX| Distrito Comedia .
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/634
@@ -2202,7 +2209,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/634
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/635
 
 #EXTINF:-1 xui-id="289414" tvg-id="comedycentral.mx" tvg-name="HD | Comedy Central" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaDSAAADQ3-HvQXJPJqeyBuJs0AMGaTvm5BvMvvl7ccQ1oLitrSf8TLyfnCyigE5_I.png" group-title="☢️ENTRETENIMIENTO HD☢️",HD | Comedy Central
-http://offshore.lat:8080/play/QfTHJTIPDPpo2ILzK-osvdGK8x1IkV95Tu1i8PEtVQw/ts
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155872
 
 #EXTINF:-1 xui-id="289414" tvg-id="comedycentral.mx" tvg-name="HD | Comedy Central" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaDSAAADQ3-HvQXJPJqeyBuJs0AMGaTvm5BvMvvl7ccQ1oLitrSf8TLyfnCyigE5_I.png" group-title="☢️ENTRETENIMIENTO HD☢️",C/S• COMEDY CENTRAL (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/242
@@ -2211,7 +2218,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/242
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/243
 
 #EXTINF:-1 tvg-id="FX" tvg-name="ENT | FX" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/FX_HD_logo.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | FX HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155789
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155789
 
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="ENT | Estrella Games" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/11be3ddab9679c9b12e7ebff129ae37e.webp" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | Estrella Games HD
 https://estrella-games-oando.amagi.tv/playlist.m3u8
@@ -2223,22 +2230,22 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 http://38.41.8.1:8000/play/a02f
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="ENT | El Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | El Gourmet
-http://38.41.8.1:8000/play/a012
+http://tv.nousiptv.com:8080/guada2019/gfsept2/4042
+
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="ENT | El Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT - EL GOURMET HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155868
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="ENT | Lifetime" tvg-logo="https://www.latincable.pe/images/canales-tv/life-time.jpg" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | Lifetime SD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155873
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="ENT | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/145px-TLC_logo_%282023%29.svg.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | TLC HD
-http://38.56.109.19/play/a012/index.m3u8
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155873
 
 #EXTINF:-1 tvg-id="HOLA TV" tvg-name="ENT | HOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1200px-%C2%A1HOLA%21TVlogo.jpg" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | HOLA TV HD
 http://38.41.8.1:8000/play/a00r
 
+#EXTINF:-1 tvg-id="HOLA TV" tvg-name="ENT | HOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1200px-%C2%A1HOLA%21TVlogo.jpg" group-title="☢️ENTRETENIMIENTO HD☢️",ENT - HOLA TV HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1155874
+
 #EXTINF:-1 tvg-id="Latina" tvg-name="ENT | Latina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Latina_TV_2019.svg/revision/latest/scale-to-width-down/200?cb=20210524150455&path-prefix=es" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | Latina HD
 http://38.41.8.1:8000/play/a02h
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="ENT | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/640px-MTV_90s_2022.svg.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | MTV HD
-http://38.41.8.1:8000/play/a02u
 
 #EXTINF:-1 tvg-id="Sun Channel" tvg-name="ENT | Sun Channel" tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | Sun Channel HD
 http://38.41.8.1:8000/play/a015
@@ -2249,32 +2256,39 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/630
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Hola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="☢️ENTRETENIMIENTO HD☢️",ENT| Hola TV HD
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/631
 
-#EXTINF:-1 tvg-id="Unicable" tvg-name="HD | Unicable" tvg-logo="https://i.pinimg.com/originals/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.png" group-title="❤️UNICABLE HD❤️",HD | Unicable HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/1155852
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 2" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX | VIX 2
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/415399
 
-#EXTINF:-1 tvg-id="TI" tvg-name="HD | TELEMUNDO INTERNACIONAL" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/telemundo.jpg" group-title="→ TELEMUNDO ←",HD | TELEMUNDO INTERNACIONAL HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/43189
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 3" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX | VIX 3
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/415400
 
-#EXTINF:-1 tvg-id="TELEMUNDO PR" tvg-name="PR | TELEMUNDO PR" tvg-logo="https://pbs.twimg.com/profile_images/1423734667879010305/xSul1yKZ_400x400.jpg" group-title="→ TELEMUNDO ←",PR | TELEMUNDO PR HD
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 4" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX | VIX 4
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/415401
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 5" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX | VIX 5
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/415402
+
+
+
+#EXTINF:-1 tvg-id="TELEMUNDO PR" tvg-name="PR | TELEMUNDO PR" tvg-logo="https://pbs.twimg.com/profile_images/1423734667879010305/xSul1yKZ_400x400.jpg" group-title="→ TELEMUNDOS ←",PR | TELEMUNDO PR HD
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_540.m3u8
 
-#EXTINF:-1 tvg-id="Univisión HD" tvg-name="HD | Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1579px-Univision_logo.svg.png" group-title="❤️UNIVISION HD❤️",HD | Univisión HD
-http://tv.nousiptv.com:8080/Gisella21/AB8935/3796
+#EXTINF:-1 tvg-id="TI" tvg-name="HD | TELEMUNDO INTERNACIONAL" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/telemundo.jpg" group-title="→ TELEMUNDOS ←",HD | TELEMUNDO INTERNACIONAL HD
+http://tv.nousiptv.com:8080/guada2019/gfsept2/43189
 
-#EXTINF:-1 tvg-id="" tvg-name="CLARO2: TELEMUNDO" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",CLARO2: TELEMUNDO
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68044
 #EXTINF:-1 tvg-id="" tvg-name="CLARO2: TELEMUNDO INTERNACIONAL." tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",CLARO2: TELEMUNDO INTERNACIONAL.
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68045
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo HD" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",LA: Telemundo HD
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68046
+http://tv.nousiptv.com:8080/guada2019/gfsept2/18778
 #EXTINF:-1 tvg-id="" tvg-name="Claro:TELEMUNDO INTERNACIONAL" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",Claro:TELEMUNDO INTERNACIONAL
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68047
-#EXTINF:-1 tvg-id="" tvg-name="Claro:TELEMUNDO" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",Claro:TELEMUNDO
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68048
-#EXTINF:-1 tvg-id="" tvg-name="USA | USA Telemundo New York #2" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",USA | USA Telemundo New York #2
+http://tv.nousiptv.com:8080/guada2019/gfsept2/43189
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | USA Telemundo New York 2" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ TELEMUNDOS ←",USA | USA Telemundo New York 2
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68049
+
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Tampa (KHRR) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo Tampa (KHRR) (us_lat)
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68050
+http://tv.nousiptv.com:8080/guada2019/gfsept2/1070040
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Phoenix (KTAS) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo Phoenix (KTAS) (us_lat)
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68051
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo San Francisco (KSTS) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo San Francisco (KSTS) (us_lat)
@@ -2307,8 +2321,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68064
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68065
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Washington (WZDC) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo Washington (WZDC) (us_lat)
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68066
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Noticias (TELEP) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo Noticias (TELEP) (us_lat)
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68067
+
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo (TELE)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo (TELE)
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/68068
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Sacramento (KCSO) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="→ TELEMUNDOS ←",Telemundo Sacramento (KCSO) (us_lat)
@@ -2583,193 +2596,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-id="TU POP FAVORITO" tvg-name="MUS | TU POP FAVORITO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35a2bc019c8bd061ba13c73896633125.webp" group-title="❤️MÚSICA HD❤️",MUS | TU POP FAVORITO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
-
-#EXTINF:-1,XXX | Blonde(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kBdrIGWpjnKliH7xo828Lds5BspJz27Xej1qlx0s9mcb
-#EXTINF:-1,XXX | Gangbang(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kCfH296D8lTZ9LAncRfW0ojARdiRVAnAPku1lYJf9hxw
-#EXTINF:-1,XXX | Interracial(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGutYlotBfBxiCAgvxXGsbnNRGXDk9VN-Fydi10BHnWz
-#EXTINF:-1,XXX | Interracial HD(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGJWU5rEh8AkYCbEliXtPQSws6U2Zz2qz1XdWdlrZC0I
-#EXTINF:-1,XXX | Lesbian(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kOEEAv2KP6F8uWXhYJpbNPwTZD-BRbRBLbWy_Lc5PilQ
-#EXTINF:-1,XXX | Lesbian HD(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGlMX9DVKGMiCpsIRnFUTE99k9QS0W25uonBuRrYcxY3
-#EXTINF:-1,Live Cams
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kL8zalNSB9sjRRywpZGjZAT--hdQoSSIXWYExvoZjBVd
-#EXTINF:-1,Rough
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGWTqp_zOR9VmIk0Mn37cnANCDMYrSmhUqREmiiP1ERQ
-#EXTINF:-1,XXX | Russian(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kLunL0rsZpz6QgLWG-YwsS7czFWnvr2iAm-iCTd1PMp2
-#EXTINF:-1,XXX | Russian HD(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kG2BI9aknQ_WOgSgRHPvhL8jEXD0Qjc0kPKTB7Da9VsC
-#EXTINF:-1,ES: BRAZZERS
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kEWVPUYRE-4lANy5Eyinm0s_BOG7syxDuaosYPhv6xUb
-#EXTINF:-1,XXX | | BRUNETTE | |
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGM0XvCxERynkyzDV0vDxHZwbnNFYcWvUBqfwPFarx5-
-#EXTINF:-1,XXX | RedTraffic Big Ass(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kLHl7K82Rpy8PN7N2zAr2iLGxVNSLgIMWxQJnC6kKosM
-#EXTINF:-1,XXX | RedTraffic Blowjob(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGkvijElCKiom0in_7eJ8_cVpkaod9EErAAXuNQDUete
-#EXTINF:-1,XXX | BIPHORIA
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kDz3D3qdAHR8YuwFfR3P81ooyngaHdmdwG6j9DRCc2pD
-#EXTINF:-1,XXX | RedTraffic Russian(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kNkY6A_PQJ7l8lhZjxibdzkkZIbTfmirqXFf5dD1KTPM
-#EXTINF:-1,XXX | Anal(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kOtLDba9kRFF82WNC92KMaF765qMEBYIHWd3ZID6US80
-#EXTINF:-1,XXX | Teen(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kOeq8ZzS_apeJjTfpvkDC9eUsBTAdwEcOJ6lJ5UTLt9n
-#EXTINF:-1,XXX | MILF(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kPPfyrwrZ504zzCgbscoG_tR9sgfcUqoP2McMhENaBkM
-#EXTINF:-1,XXX | Latina (Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kPoBqGVLUCkQCv5SwcJzWuwHQ6_0OYkdwhpEG_giNoNc
-#EXTINF:-1,XXX | Live Cams(Q)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kIE8idGKseKgw6qWSFyrhmbk1KFJtmBdU-FJRMQsw8J6
-#EXTINF:-1,Adult mix 2(C)
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kINlBXbl27mOyWjGW1g_Wc089j8P6pob42krkz8RcV-U
-#EXTINF:-1,*VENUS
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kAk7aRGUMxGdNiny4Kd1AY42akc74QZE9UUykuXfj_ri
-#EXTINF:-1,**BIG ASS**
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kFaSCn1srSFsoCXgjq0Qv4CNYOCqxpcCKH7gGwxcVvqB
-#EXTINF:-1,247134
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kEYHSeakObZMPqF9EG8p7Vk0xKh6-Xoe1SfzuXFTmoCA
-#EXTINF:-1,*COMPILATION
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kKmOq3NXhSANxf0rPwhiSVXstfUt_MhQds-TLsio21Jv
-
-#EXTINF:-1,XXX: BOX OF PORN
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kNZT0m7pBaPn0Y68_PzMCeCjZV3A1-iQI1YiRW71wNgQ
-#EXTINF:-1,XXX: DORCEL CLUB
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kLKk9X8Ts8Yn23Zy1NMiVJ3JFE0hNN4XTqXHWpH78qub
-#EXTINF:-1,XXX: LETHAL TEENS
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kHKGL6rq-ESSHc-ZXAdW3BtcPcHhy-alD0iOGeryzN1p
-#EXTINF:-1,XXX: LETS DOE IT
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kD14BMzsKYkqAUkWBAAsEaoqPe0wTMM9khT1qqfvAT6o
-#EXTINF:-1,XXX: LOVE HER FEET
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kB18ufg9-_nNwKvTPruvunLMdPCUCT4CSAIIh4E3DRZc
-#EXTINF:-1,XXX: MAMACITAZ
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kCyO5wAfop2JEcBPUQeDtHv2QDAYFl2iyAUFLS_0YY3C
-#EXTINF:-1,*PLAYB0Y
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kK_aAygF5z2taE2O0cDgQkZcFJ4LKjjTVPSBrO22Z5kb
-
-#EXTINF:-1,ADULTOS | PRIVATE_LA8
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kBaDxYG_aSQLM8A16O2B-P9DifO-LBboxVWFCHjaBHJk
-#EXTINF:-1,ADULTOS | PRIVATE_LA9
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kPRPRrimZ387-Iu8DeQsck_Vfz0g1l9dLz15baDjThIN
-#EXTINF:-1,XXX | EROTIC_6 LA1
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kLWD97Yj3McnPcUTF-HUN_NkYKZ7FvELHj5XphlMGLXF
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Big Ass HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kJtiN8Xdo4KLaIRM8u5bc3UVVzWeOv1Ruhf47E43sxI5
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Big Dick
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kKbxF-zst4YMlxkdv_he5WVtKYlF8-RHSKm6Fm22iITT
-#EXTINF:-1,ADULTOS | PRIVATE_LA8
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kJEYY0-v7MZY5RZIFqO_wIYB-qbVaOwGaT7DCL99A3bA
-#EXTINF:-1,ADULTOS | PRIVATE_LA9
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGxIdyFrpsGpWVqRZTJ5XWV39oksCn-avJNMm2isHMRr
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Cuckold HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kCf3EDhAoQlD6JjBv2MMmypACrVbEeKMRSTEAC5Sm9qh
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Fetish HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kAV7ZV3jR_o7n6m1Vw5p2hx-t9JMklS0O38waLNNOkDS
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Hardcore HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kB7zrhFPAL9MNNF0xbJyIj3JkYnDFHmmDGnxpM_TXltS
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Interracial HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kMP3j9QU4zjou3-7T4yeBd07aQIVQw18CTi87dK7ud0a
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Latina HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kCVtnQZQAFWKuEjj0Uvd8wc4t0F6BUGHvAIqZ_oa4C4j
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Lesbian HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kB1GiQkMVpNZbCrRIUQ9knP-OCNRyvHlIk2pTaculyB6
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic MILF HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kAOBe7kjgKNFqer_G1A1a1tjr3c9GHjBE6eWw7z_d8F8
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Pornstar HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kL2Spk69BssBF8TIeE69ara56VTxLS9v69mnQbPeH8ff
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic POV HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kEtLc_mSse_nF22AjWykG_oGFYIjNVmz8t95CurflHhC
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Russian HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kC5jx8SQe0HM7KI55wYSYJa3wXh3nvenW-U9QXksCoGl
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Teen HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kOowRy87edP2URqEVPEd_gZC63FJuLYbJAVm4EM4jNuD
-#EXTINF:-1,ADULTOS 24/7 | RedTraffic Threesome HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kFf1aKPGCqZGgVzAczqKEvxcvRJVR7KlpCQaAoflZx0w
-#EXTINF:-1,USA | Miami TV HD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kEN2tzK7MdUqBmTq0dQnAjEuc69QGdqkDtaEQeodcsku
-#EXTINF:-1,XXX:EROTIC_1 LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kFwJAKoM2JeDp2koLdqEgJMuHdxUERnud6_JT7BibIJW
-#EXTINF:-1,XXX:EROTIC_1 LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kP7O0XHYTsU_ddSUECMMKw2rwAJXSccF2EUTlbSn1_ap
-#EXTINF:-1,XXX:EROTIC_1 LA5
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kHthg4YSeTDvHA_VSqVvn4EkXXOW-K0OM3C3lKm4fWZt
-#EXTINF:-1,XXX:EROTIC_1 LA6
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kE-Yoyf-uTH2NZC3zs_ljpU8TmJereGBXJ7Ot1fB3oCo
-#EXTINF:-1,XXX:EROTIC_2 LA1
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kMD4XjXrnswRE2dh2EZYuWdVaEPY48FjS6klBRjATrwW
-#EXTINF:-1,XXX:EROTIC_2 LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kJ03-dYpLaGoPdCUz74MxwnyWlifZHquEWwtO4SLJxCK
-#EXTINF:-1,XXX:EROTIC_2 LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kL6VK9pmeOH1_cqhRSHqiMR1_M9friTeKBS9CGZchBee
-#EXTINF:-1,XXX:EROTIC_2 LA5
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kMVR9wGOI1Bzeo63id08YT1MwKq2sFBzQzbkWi3o9RZF
-#EXTINF:-1,XXX:EROTIC_4 LA4
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kK4iBRPviLkKe7OsBCsX6vXL0tk6xBOxsqkTvv-xx1bt
-#EXTINF:-1,XXX:EROTIC_5 LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kHlM4z1WXGcAnA6d78pYXDmvN4pEFXb5bG48E5xLGfYC
-#EXTINF:-1,XXX:EROTIC_5 LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kPASFMHyQRv8pasHI1K3wxyNZWcRp_1irbnjADCg5JfL
-#EXTINF:-1,XXX:EROTIC_5 LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kNJG0586QCLRZQFJXb349MRG-hk8scpx7m1VRMD66ZHr
-#EXTINF:-1,XXX:EROTIC_6 LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kIA0eYYQrWnCKa7yLzaSCgoIrd4E5T66JZ9c2tsl71CO
-#EXTINF:-1,XXX:HOT_LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kPx1hsXcvuZ6D7w_XfLh91kuGQueh6yTeMGB8kQTnX8b
-#EXTINF:-1,XXX:PINKO_LA10
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kIG0a-KBodXlqdD8C0ugSk65KOVKGQJhkmgOyXowYjwz
-#EXTINF:-1,XXX:PINKO_LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kK-Ol0Zf7WPfaHjxS77dGgtwX_XdNAWSE9UNUFP_vi1x
-#EXTINF:-1,XXX:PINKO_LA6
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kIhpaIsKDtZU-ty6f85trontnsoir70e5q0dAN53OO-o
-#EXTINF:-1,XXX:PRIVATE_LA10
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kBoDHfB2KGC3PlOgO5y_YV52QHrdKZoJWQx9XkvabH_n
-#EXTINF:-1,XXX:PRIVATE_LA11
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kO39CLTTbTO8MuN_Ssm_tV6pfYFjn7-s-MiyaZi6Ca4y
-#EXTINF:-1,XXX:PRIVATE_LA12
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kM48WXSTrqfRlNVBlyFeCIoaa8lwqlpAAHElYQoOoiOA
-#EXTINF:-1,XXX:PRIVATE_LA14
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kCaX5pxRvahjcjqceL2-UhczKrrZhAwPnqc6nTx4aIbf
-#EXTINF:-1,XXX:PRIVATE_LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kIpslsLgOFh2LGWOffybXNtbbGzN9NrSwkwt5lOvidJQ
-#EXTINF:-1,XXX:PRIVATE_LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kKhReUV1Z7jP5UFDptxag7TWgoIdEwUBICpfOViorQC8
-#EXTINF:-1,XXX:PRIVATE_LA4
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kMMhgX03pwiOGLIrL9VntWwac4o7uuDFJfwVFULm-f9c
-#EXTINF:-1,XXX:PRIVATE_LA5
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kLqF-Apq-JDwaqobZ2BVC66OL_pkIxsdXt2G0B_K46jJ
-#EXTINF:-1,XXX:PRIVATE_LA6
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kBtfFS0KcipCL4xS-5COe5stVhDmxZaJoI6SHtG5dGLt
-#EXTINF:-1,XXX:PRIVATE_LA8
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kLZCPDAlo2cXlmFi5iF8pAJiUHso7Zgc1PrltPkMIS_9
-#EXTINF:-1,XXX:PRIVATE_LA9
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kMux16aIzRlMuVOol7W3P0yXH_WYq8YQViU-WY-kUKKZ
-#EXTINF:-1,XXX:SEXTREME_LA1
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGe_-9VD_ySL6vDyJfUy_PLupBQbhcl1NMzafVdEodjL
-#EXTINF:-1,XXX:SEXTREME_LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kKcKVzkBnVybgLGZLB4kPRfQBOonCLMMlp290X9B-EyX
-#EXTINF:-1,XXX:SEXTREME_LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kEOhO7CjwdJNyTTz-mpeC5kH6tWxcMWO1bexgviwegNn
-#EXTINF:-1,XXX:SEXTREME_LA5
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kGcr0pIl_IyQbLEmiUFSfkc1yW4ys1JWmeWCiV8TdiVW
-#EXTINF:-1,XXX:SEXTREME_LA6
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kDzyGWKMdOoKsty0jeWBz60DP4r6GZiPd4dnXr9J4P8n
-#EXTINF:-1,XXX:VENUS_LA2
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kIWgY87G5YT4T-_qB4TKVW2lzylIw4RWEQle8RL_9MaJ
-#EXTINF:-1,XXX:VENUS_LA3
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kFGE9c2KSlzEnXMW4bUd1TTvw376bN3fFXL2J82tCC9Y
-#EXTINF:-1,XXX:VENUS_LA4
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kJTq7bIiqcgI6Vb7uOgU1VPaRi5oBenrZTTWqGWdSg4U
-#EXTINF:-1,XXX:VENUS_LA5
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kMJs_7waftCyGGf_fdksyL1Ij5TST3qBtWybmB9wa7Kk
-#EXTINF:-1,XXX:HUSTLER TV
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kODXC4d74og8CP5FpHyOO-d2e4_5GHumU31-DaxhOlP4
-#EXTINF:-1,XXX: HUSTLER TV  | SD
-http://daleplay.club:80/play/qBu8QwbSOAKKWAAaIyu8kAsWvO4hGi6PrO33PcbfgfnAMYBF8INDTXS9kO99ycS3
 
 
 #EXTINF:-1,XXX: Anal Pinkotv
@@ -3922,684 +3748,8 @@ https://twomonkeys.live:443/movie/Victor1234/Victor1234/933618.mp4
 https://twomonkeys.live:443/movie/Victor1234/Victor1234/933617.mp4
 #EXTINF:-1,TeensLoveCream
 https://twomonkeys.live:443/movie/Victor1234/Victor1234/933616.mp4
-#EXTINF:-1,VixenAddieAndrews
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933615.mp4
-#EXTINF:-1,BangBusScarlett
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933614.mp4
-#EXTINF:-1,starlets-liesdiaryofanescort
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933613.mp4
-#EXTINF:-1,26506
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933612.mp4
-#EXTINF:-1,kemaco
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933611.mp4
-#EXTINF:-1,finishinmyass1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933610.mp4
-#EXTINF:-1,EvilCreampies1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933609.mp4
-#EXTINF:-1,41 Years 1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933608.mp4
-#EXTINF:-1,joditaylor
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933607.mp4
-#EXTINF:-1,ItsTheGirlNextDoor2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933606.mp4
-#EXTINF:-1,gush my sexy little niece
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933605.mp4
-#EXTINF:-1,Nacho3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933604.mp4
-#EXTINF:-1,MaryAnneSor
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933603.mp4
-#EXTINF:-1,EbonyPower2017
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933602.mp4
-#EXTINF:-1,DEMS0
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933601.mp4
-#EXTINF:-1,SororitySisters
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933600.mp4
-#EXTINF:-1,no-not-my-wrinkled-starfish
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933599.mp4
-#EXTINF:-1,pureanal1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933598.mp4
-#EXTINF:-1,swe6-soba
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933597.mp4
-#EXTINF:-1,gush meet mandingo
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933596.mp4
-#EXTINF:-1,DorcelClubAmirahAdaraVeronicaClark
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933595.mp4
-#EXTINF:-1,javsiders-tm
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933594.mp4
-#EXTINF:-1,E519
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933593.mp4
-#EXTINF:-1,grateful-grannies-3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933592.mp4
-#EXTINF:-1,blackpayback
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933591.mp4
-#EXTINF:-1,NewIndian19
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933590.mp4
-#EXTINF:-1,SinsLife
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933589.mp4
-#EXTINF:-1,BlackedInterracialMILF2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933588.mp4
-#EXTINF:-1,firstanal4-tushy1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933587.mp4
-#EXTINF:-1,BTRALena
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933586.mp4
-#EXTINF:-1,mysistershotfriend
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933585.mp4
-#EXTINF:-1,exoticandcurvy41
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933584.mp4
-#EXTINF:-1,df-intgirlf
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933583.mp4
-#EXTINF:-1,MyCumObsessionXXX1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933582.mp4
-#EXTINF:-1,SkyHighX
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933581.mp4
-#EXTINF:-1,AnalThreesomes-41
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933580.mp4
-#EXTINF:-1,Castings3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933579.mp4
-#EXTINF:-1,vbt-bangbrosinv16
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933578.mp4
-#EXTINF:-1,ShareMyBoyfriend81
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933577.mp4
-#EXTINF:-1,GwenStarkXX
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933576.mp4
-#EXTINF:-1,russian-teenie-massage-rooms
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933575.mp4
-#EXTINF:-1,OfficePerverts71
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933574.mp4
-#EXTINF:-1,bigtitsroundasses
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933573.mp4
-#EXTINF:-1,BlackedCrystal
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933572.mp4
-#EXTINF:-1,BangBus
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933571.mp4
-#EXTINF:-1,doubled-tention1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933570.mp4
-#EXTINF:-1,Kamasutra3D
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933569.mp4
-#EXTINF:-1,DANDY4
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933568.mp4
-#EXTINF:-1,MujheSuSuKaraDo
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933567.mp4
-#EXTINF:-1,ACum2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933566.mp4
-#EXTINF:-1,BangCastGina
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933565.mp4
-#EXTINF:-1,horny black amateurs 3-pbu
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933564.mp4
-#EXTINF:-1,BozWhen
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933563.mp4
-#EXTINF:-1,ff10099
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933562.mp4
-#EXTINF:-1,FakeTaxiLeninaCrowne
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933561.mp4
-#EXTINF:-1,LaCavaliere
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933560.mp4
-#EXTINF:-1,Cheeky31
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933559.mp4
-#EXTINF:-1,BrazzersExxtraBarbieSins
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933558.mp4
-#EXTINF:-1,JacquieetmicheltvRose
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933557.mp4
-#EXTINF:-1,PublicPickUpsSelvaggia
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933556.mp4
-#EXTINF:-1,daredorm261
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933555.mp4
-#EXTINF:-1,wop-roccocasting14
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933554.mp4
-#EXTINF:-1,NikkiKnightly
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933553.mp4
-#EXTINF:-1,StarWarsXXX1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933552.mp4
-#EXTINF:-1,Ariella (1980)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933551.mp4
-#EXTINF:-1,BangBusRoseMonroe
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933550.mp4
-#EXTINF:-1,JaysPovAnastasiaKni
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933549.mp4
-#EXTINF:-1,neighboraffair
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933548.mp4
-#EXTINF:-1,ElegantAngel-BestNewStarlets
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933547.mp4
-#EXTINF:-1,MomsInControl-91
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933546.mp4
-#EXTINF:-1,black-beauty-vol-3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933545.mp4
-#EXTINF:-1,RealLife5-2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933544.mp4
-#EXTINF:-1,Vixen! (1968)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933543.mp4
-#EXTINF:-1,public-sex-8
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933542.mp4
-#EXTINF:-1,MDLux
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933541.mp4
-#EXTINF:-1,heyzo9
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933540.mp4
-#EXTINF:-1,bangbros18
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933539.mp4
-#EXTINF:-1,Analingus101
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933538.mp4
-#EXTINF:-1,st-valentines-college-sluts
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933537.mp4
-#EXTINF:-1,BlackModels3a
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933536.mp4
-#EXTINF:-1,STXBareback
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933535.mp4
-#EXTINF:-1,BangBros18NicoleYoga
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933534.mp4
-#EXTINF:-1,MomXXXKatrinaMoreno
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933533.mp4
-#EXTINF:-1,monstersofcock
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933532.mp4
-#EXTINF:-1,me and mommys messy mouth 2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933531.mp4
-#EXTINF:-1,122115 5aFIZ JDLPS
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933530.mp4
-#EXTINF:-1,MomIsHornyAlexisFawx
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933529.mp4
-#EXTINF:-1,BoundToCum1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933528.mp4
-#EXTINF:-1,ebt anyaivy3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933527.mp4
-#EXTINF:-1,KatyCol
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933526.mp4
-#EXTINF:-1,BrazzersExxtra-JewelzBluDrippingInJewelz
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933525.mp4
-#EXTINF:-1,TheThreeOfUs7
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933524.mp4
-#EXTINF:-1,tlib
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933523.mp4
-#EXTINF:-1,oxana44
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933522.mp4
-#EXTINF:-1,BangSaraLuvv
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933521.mp4
-#EXTINF:-1,hitomitanakavideopack1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933520.mp4
-#EXTINF:-1,ps-mdhg35
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933519.mp4
-#EXTINF:-1,bigtitsroundasses
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933518.mp4
-#EXTINF:-1,BTRA1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933517.mp4
-#EXTINF:-1,NatashaWhite
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933516.mp4
-#EXTINF:-1,analbrats41
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933515.mp4
-#EXTINF:-1,BangBusAutumnFalls
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933514.mp4
-#EXTINF:-1,Evie Clean
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933513.mp4
-#EXTINF:-1,Blacked Ember Stone
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933512.mp4
-#EXTINF:-1,Sister3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933511.mp4
-#EXTINF:-1,HardReign21
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933510.mp4
-#EXTINF:-1,bang-europe-3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933509.mp4
-#EXTINF:-1,MilfsLikeItBigCherieDeville
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933508.mp4
-#EXTINF:-1,wop-hookuphotshotextremeanlhigh
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933507.mp4
-#EXTINF:-1,StarWarsPorn1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933506.mp4
-#EXTINF:-1,InterracialBlowBang13
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933505.mp4
-#EXTINF:-1,MyDaughtersHotFriend
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933504.mp4
-#EXTINF:-1,teeny-handjobs
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933503.mp4
-#EXTINF:-1,BangBuParisKnights
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933502.mp4
-#EXTINF:-1,pornomagic
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933501.mp4
-#EXTINF:-1,Locura padre (2017)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933500.mp4
-#EXTINF:-1,STAR223
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933499.mp4
-#EXTINF:-1,One Night in Paris (2021)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933498.mp4
-#EXTINF:-1,petra48
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933497.mp4
-#EXTINF:-1,mc10918
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933496.mp4
-#EXTINF:-1,X (2022)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933495.mp4
-#EXTINF:-1,publicdisgrace
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933494.mp4
-#EXTINF:-1,small81
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933493.mp4
-#EXTINF:-1,YourMomsTwatIsHot-Vol10
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933492.mp4
-#EXTINF:-1,BlackedZoeBloomOpenRelationship
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933491.mp4
-#EXTINF:-1,B-Movie: a short film about Banksy (2009)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933490.mp4
-#EXTINF:-1,ChewLily
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933489.mp4
-#EXTINF:-1,BangBusVictoriaJune2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933488.mp4
-#EXTINF:-1,ps-swhl3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933487.mp4
-#EXTINF:-1,Je suis enceinte! (2008)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933486.mp4
-#EXTINF:-1,SeductionSoSweet1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933485.mp4
-#EXTINF:-1,BangBusCri
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933484.mp4
-#EXTINF:-1,BlackedJade
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933483.mp4
-#EXTINF:-1,cic-firana5
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933482.mp4
-#EXTINF:-1,BlackedRawLilyRaderAryaFaeNewFriends
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933481.mp4
-#EXTINF:-1,ShesSoSmall6-5
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933480.mp4
-#EXTINF:-1,RealWifeStoriesReaganFoxx
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933479.mp4
-#EXTINF:-1,KendrasAngelsXXX
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933478.mp4
-#EXTINF:-1,DirtyMaidCarrie
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933477.mp4
-#EXTINF:-1,gush british virgin asses
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933476.mp4
-#EXTINF:-1,OrgiedeLuxe
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933475.mp4
-#EXTINF:-1,PrivateGold2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933474.mp4
-#EXTINF:-1,puremature
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933473.mp4
-#EXTINF:-1,cic-pka2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933472.mp4
-#EXTINF:-1,BlackedRawAryaFae
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933471.mp4
-#EXTINF:-1,s01e03 (2020)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933470.mp4
-#EXTINF:-1,Private Eye (2009)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933469.mp4
-#EXTINF:-1,anal-french-milfs
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933468.mp4
-#EXTINF:-1,Vixen! (1968)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933467.mp4
-#EXTINF:-1,MyFriends18
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933466.mp4
-#EXTINF:-1,busty1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933465.mp4
-#EXTINF:-1,MyFirstLesbian
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933464.mp4
-#EXTINF:-1,hard-loving-teens-3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933463.mp4
-#EXTINF:-1,Dancing11
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933462.mp4
-#EXTINF:-1,Prey (2019)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933461.mp4
-#EXTINF:-1,bangbus
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933460.mp4
-#EXTINF:-1,FakeHubMinelMojado
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933459.mp4
-#EXTINF:-1,BangBros18Mi
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933458.mp4
-#EXTINF:-1,boobs-exposed-5
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933457.mp4
-#EXTINF:-1,TruthDare
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933456.mp4
-#EXTINF:-1,cic-bra10thd2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933455.mp4
-#EXTINF:-1,LisaAnn-SchoolOfMilf2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933454.mp4
-#EXTINF:-1,Defiled (2023)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933453.mp4
-#EXTINF:-1,best-of-private
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933452.mp4
-#EXTINF:-1,KeishaGrey-EvaLovia
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933451.mp4
-#EXTINF:-1,Anna1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933450.mp4
-#EXTINF:-1,BangBros18AnastasiaKnight
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933449.mp4
-#EXTINF:-1,prime1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933448.mp4
-#EXTINF:-1,TusEl
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933447.mp4
-#EXTINF:-1,OnlyBJ
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933446.mp4
-#EXTINF:-1,PumpMyAss1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933445.mp4
-#EXTINF:-1,RKPrime-AlexisFawx-SkylarSnow-ClubCougarJoinsTheParty
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933444.mp4
-#EXTINF:-1,aussiefellatioqueens
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933443.mp4
-#EXTINF:-1,father figure 6
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933442.mp4
-#EXTINF:-1,LesbianStepmother31
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933441.mp4
-#EXTINF:-1,BlackedRawAshleyLane
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933440.mp4
-#EXTINF:-1,FuckFiveTeamAshAdams
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933439.mp4
-#EXTINF:-1,DiscreetHousewives
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933438.mp4
-#EXTINF:-1,IHaveAWifeAlexisTexas
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933437.mp4
-#EXTINF:-1,BLACKEDBrandi
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933436.mp4
-#EXTINF:-1,RebecaBang
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933435.mp4
-#EXTINF:-1,HookupHotshot
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933434.mp4
-#EXTINF:-1,bangbros18
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933433.mp4
-#EXTINF:-1,adela37
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933432.mp4
-#EXTINF:-1,laylalondontopactresspack1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933431.mp4
-#EXTINF:-1,GirlsDoPorn22YearsOldE478
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933430.mp4
-#EXTINF:-1,india15
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933429.mp4
-#EXTINF:-1,ThreesCumpany21
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933428.mp4
-#EXTINF:-1,DVDES8
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933427.mp4
-#EXTINF:-1,PussyIsTheBestMedicine1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933426.mp4
-#EXTINF:-1,Dance3b
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933425.mp4
-#EXTINF:-1,BangBusVictoriaJune
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933424.mp4
-#EXTINF:-1,Vixen! (1968)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933423.mp4
-#EXTINF:-1,ACum1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933422.mp4
-#EXTINF:-1,MrChew3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933421.mp4
-#EXTINF:-1,BB18Veronica
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933420.mp4
-#EXTINF:-1,btra-wobmilfofbb
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933419.mp4
-#EXTINF:-1,SistersOf
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933418.mp4
-#EXTINF:-1,TittyAttackAthenaPalomino
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933417.mp4
-#EXTINF:-1,GrannyAnalQueens
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933416.mp4
-#EXTINF:-1,TopBlack4-4
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933415.mp4
-#EXTINF:-1,BlackedAngelaWhite
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933414.mp4
-#EXTINF:-1,SistersBig2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933413.mp4
-#EXTINF:-1,BrownBunniesSim
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933412.mp4
-#EXTINF:-1,PrivateSpecials185
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933411.mp4
-#EXTINF:-1,Ural2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933410.mp4
-#EXTINF:-1,RussInst
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933409.mp4
-#EXTINF:-1,EncoreVol38
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933408.mp4
-#EXTINF:-1,SexInPublic131
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933407.mp4
-#EXTINF:-1,LewdInLiverpool
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933406.mp4
-#EXTINF:-1,iwatchblackmenfuckmygirlfriendsasshole1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933405.mp4
-#EXTINF:-1,BangCastAlice
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933404.mp4
-#EXTINF:-1,Tushy-NellaJones
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933403.mp4
-#EXTINF:-1,DoubleAnal
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933402.mp4
-#EXTINF:-1,alexisfawx1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933401.mp4
-#EXTINF:-1,ArabelleRaphael
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933400.mp4
-#EXTINF:-1,MommaKnow
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933399.mp4
-#EXTINF:-1,BWBAlina
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933398.mp4
-#EXTINF:-1,Housewife1On11
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933397.mp4
-#EXTINF:-1,nrgcameronseth10
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933396.mp4
-#EXTINF:-1,ecg
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933395.mp4
-#EXTINF:-1,Wyzwanie (2020)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933394.mp4
-#EXTINF:-1,it-doesnt-hurt-to-squirt
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933393.mp4
-#EXTINF:-1,IKnowJap
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933392.mp4
-#EXTINF:-1,TheAltarOfAphrodite1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933391.mp4
-#EXTINF:-1,uc-ghostbustersprdy
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933390.mp4
-#EXTINF:-1,MichaelLucas
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933389.mp4
-#EXTINF:-1,Dance-Off (2014)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933388.mp4
-#EXTINF:-1,BTRASun
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933387.mp4
-#EXTINF:-1,FakeTaxi-AnnaDeVille
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933386.mp4
-#EXTINF:-1,CapriCavanni
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933385.mp4
-#EXTINF:-1,MOCNicole
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933384.mp4
-#EXTINF:-1,OfficePerverts61
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933383.mp4
-#EXTINF:-1,1016159
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933382.mp4
-#EXTINF:-1,RoccoSexAnalyst1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933381.mp4
-#EXTINF:-1,TeensLikeItBigAlaina
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933380.mp4
-#EXTINF:-1,ErikEverhardTakesOnEurope1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933379.mp4
-#EXTINF:-1,TopBlack4-1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933378.mp4
-#EXTINF:-1,pure-asian-first-timers-7
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933377.mp4
-#EXTINF:-1,wop-teensvsmilfs7
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933376.mp4
-#EXTINF:-1,LittleTwiggetsBigAdventure
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933375.mp4
-#EXTINF:-1,Rain3007
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933374.mp4
-#EXTINF:-1,SimplyPure
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933373.mp4
-#EXTINF:-1,kemaco
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933372.mp4
-#EXTINF:-1,EvaXX
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933371.mp4
-#EXTINF:-1,GloryHoleSecrets
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933370.mp4
-#EXTINF:-1,MyFamilyPies-AbellaDanger-FamilyVacationSex
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933369.mp4
-#EXTINF:-1,BlackWhite4
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933368.mp4
-#EXTINF:-1,KarmenBella
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933367.mp4
-#EXTINF:-1,VideoChatRevenge1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933366.mp4
-#EXTINF:-1,CzechTeenagers
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933365.mp4
-#EXTINF:-1,lanarhoadestopactresspack1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933364.mp4
-#EXTINF:-1,bcc
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933363.mp4
-#EXTINF:-1,cic-stacked7
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933362.mp4
-#EXTINF:-1,wop-40yoldwidow
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933361.mp4
-#EXTINF:-1,SistersBig1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933360.mp4
-#EXTINF:-1,blacked1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933359.mp4
-#EXTINF:-1,BangbrosClipsAlaina
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933358.mp4
-#EXTINF:-1,gotmylf
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933357.mp4
-#EXTINF:-1,TushyAnastasiaKnight
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933356.mp4
-#EXTINF:-1,blackedlena
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933355.mp4
-#EXTINF:-1,brownbunnies
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933354.mp4
-#EXTINF:-1,Dance-Off (2014)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933353.mp4
-#EXTINF:-1,RoseValerie
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933352.mp4
-#EXTINF:-1,CuteWhiteGirlLoveBigBlackCock3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933351.mp4
-#EXTINF:-1,britXXX
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933350.mp4
-#EXTINF:-1,FuckStudies
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933349.mp4
-#EXTINF:-1,teen-japan
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933348.mp4
-#EXTINF:-1,ZZZBrazzers-AletaOcean
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933347.mp4
-#EXTINF:-1,Ma maman est en Amérique, elle a rencontré Buffalo Bill (2013)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933346.mp4
-#EXTINF:-1,BlackedRawAnaRose
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933345.mp4
-#EXTINF:-1,mfp
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933344.mp4
-#EXTINF:-1,TrueAmateurs
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933343.mp4
-#EXTINF:-1,btas
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933342.mp4
-#EXTINF:-1,smv13634
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933341.mp4
-#EXTINF:-1,TinySpinners
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933340.mp4
-#EXTINF:-1,BlackedRawEvelinStone
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933339.mp4
-#EXTINF:-1,dare dorm
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933338.mp4
-#EXTINF:-1,ff9620
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933337.mp4
-#EXTINF:-1,bex stormy daniels kl040518
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933336.mp4
-#EXTINF:-1,25391
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933335.mp4
-#EXTINF:-1,RealWifeStories-AriellaFerrera-LickMyLimo
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933334.mp4
-#EXTINF:-1,Dorcel19-5
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933333.mp4
-#EXTINF:-1,§ 14 BGB (1915)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933332.mp4
-#EXTINF:-1,Los mocosos (1957)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933331.mp4
-#EXTINF:-1,NaughtyAmateurs6
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933330.mp4
-#EXTINF:-1,bbe13239-720p
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933329.mp4
-#EXTINF:-1,APJyn
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933328.mp4
-#EXTINF:-1,TeannaTrump
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933327.mp4
-#EXTINF:-1,BlackedNicoleAniston
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933326.mp4
-#EXTINF:-1,cic-theboomo2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933325.mp4
-#EXTINF:-1,APJuli
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933324.mp4
-#EXTINF:-1,WorldFamous11
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933323.mp4
-#EXTINF:-1,hot-chocolate-candy-girls
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933322.mp4
-#EXTINF:-1,dorcelclub
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933321.mp4
-#EXTINF:-1,pervmom
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933320.mp4
-#EXTINF:-1,btra-girlsofbangbros65petajensen
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933319.mp4
-#EXTINF:-1,Vixen! (1968)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933318.mp4
-#EXTINF:-1,Ama17
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933317.mp4
-#EXTINF:-1,giant dicks in asian chicks 2
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933316.mp4
-#EXTINF:-1,sweetheartvideo mother lovers society
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933315.mp4
-#EXTINF:-1,Dancing16
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933314.mp4
-#EXTINF:-1,AnalDementia3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933313.mp4
-#EXTINF:-1,bcm
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933312.mp4
-#EXTINF:-1,anissakate1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933311.mp4
-#EXTINF:-1,YoungAndCurious21
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933310.mp4
-#EXTINF:-1,Helix1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933309.mp4
-#EXTINF:-1,brazzerstopmostviewedalltimevideos1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933308.mp4
-#EXTINF:-1,dp-teens-from-russia-3-720p
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933307.mp4
-#EXTINF:-1,BangBusHarmonyWonder
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933306.mp4
-#EXTINF:-1,try-teens-3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933305.mp4
-#EXTINF:-1,horny-sluts-love-to-work-out
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933304.mp4
-#EXTINF:-1,suckxxx-megaswingers100amateurs
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933303.mp4
-#EXTINF:-1,28911
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933302.mp4
-#EXTINF:-1,Vixen! (1968)
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933301.mp4
-#EXTINF:-1,russian-porn-queens
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933300.mp4
-#EXTINF:-1,BlackedHaleyReed
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933299.mp4
-#EXTINF:-1,AnalFanatic7
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933298.mp4
-#EXTINF:-1,AlexLegend1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933297.mp4
-#EXTINF:-1,ExploitedCollegeGirlsIsabelleRyan
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933296.mp4
-#EXTINF:-1,wop-wifeswaporgy
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933295.mp4
-#EXTINF:-1,facial-delight-3
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933294.mp4
-#EXTINF:-1,shadow-of-a-milf-720p
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933293.mp4
-#EXTINF:-1,BlackedRawKaliRoses
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933292.mp4
-#EXTINF:-1,CaraAndLucy-EscortesDeLuxe1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933291.mp4
-#EXTINF:-1,mgb
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933290.mp4
-#EXTINF:-1,wet1
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933289.mp4
-#EXTINF:-1,BangBros18Maya
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933288.mp4
-#EXTINF:-1,mydirtymaid
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933287.mp4
-#EXTINF:-1,desperateamateurs
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933286.mp4
-#EXTINF:-1,BlackedElsa
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933285.mp4
-#EXTINF:-1,Bang2015
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933284.mp4
-#EXTINF:-1,bkb13617
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933283.mp4
-#EXTINF:-1,BTRATori
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933282.mp4
-#EXTINF:-1,MOCMarica
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933281.mp4
-#EXTINF:-1,ColombiaFestReina
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933280.mp4
-#EXTINF:-1,BangCastingJoseline
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933279.mp4
-#EXTINF:-1,monstersofcock
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933278.mp4
-#EXTINF:-1,AnOcean
-https://twomonkeys.live:443/movie/Victor1234/Victor1234/933277.mp4
+
+
 #EXTINF:-1,hih14565
 https://twomonkeys.live:443/movie/Victor1234/Victor1234/933276.mp4
 #EXTINF:-1,familystrokes
@@ -7932,8 +7082,6 @@ http://cord-cutter.net:8080/3HWgqd/245797/215791
 http://cord-cutter.net:8080/3HWgqd/245797/215792
 #EXTINF:-1,X4 | Elle Lee
 http://cord-cutter.net:8080/3HWgqd/245797/215793
-
-
 
 
 
