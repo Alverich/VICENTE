@@ -18,7 +18,6 @@ https://castlempire.site:443/HenryArevalo/Arevalo2011/170000.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 03 || UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 03 | UEFA Champions AR | F⚽X  $P0RTS 3 Argentina HD
 https://castlempire.site:443/HenryArevalo/Arevalo2011/184457.ts
 
-
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 06 || UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 06 | UEFA Champions MEX | Fox Sports México 1 HD
 https://castlempire.site:443/HenryArevalo/Arevalo2011/181278.ts
 
@@ -67,7 +66,7 @@ http://tv.nousiptv.com:8080/guada2019/gfsept2/1172659
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ EVENTOS FÚTBOL ←",HD | ESPN PREMIUM ᴴᴰ
 http://38.41.8.1:8000/play/a02z
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_MEX- | FOX SPORTS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="→ MÉXICO ←",LA_MEX- : FOX SPORTS PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="LA_MEX- | FOX SPORTS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",LA_MEX- : FOX SPORTS PREMIUM HD
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24775
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | LA LIGA MX" tvg-logo="https://pbs.twimg.com/media/Fzv51gGWIAIaMHG?format=jpg&name=4096x4096" group-title="→ EVENTOS FÚTBOL ←",VIX LA LIGA MX | TUDN
@@ -100,7 +99,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/22946
 #EXTINF:-1 tvg-id="Univisión" tvg-name="MX | Univisión" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ EVENTOS FÚTBOL ←",UNI | Univisión TUDN San Francisco
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/22940
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="TV || MEXICO",MX| CANAL 5
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="→ EVENTOS FÚTBOL ←",MX| CANAL 5
 http://cincotv.org:25461/demo1/25demo/186810
 
 #EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | CANAL 5 HD (OP1)*
@@ -327,7 +326,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="TELE FORMULA" tvg-name="MX | TELE FORMULA" tvg-logo="https://www.prensario.net/multimedios/imgs/55254_750.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | TELE FORMULA WEB HD
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Azteca Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="→ MÉXICO ←",LA_HD_MEX2:Azteca Uno HD
@@ -2008,8 +2006,316 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12022
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12023
 
 
-#EXTINF:-1 tvg-id="LOS SIMPSON" tvg-name="24/7 | LOS SIMPSON" tvg-logo="https://sm.ign.com/ign_es/tv/l/los-simpso/los-simpson-tv_g5rf.jpg" group-title="24/7",24/7 | LOS SIMPSON
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | KUNG FU PANDA" tvg-logo="https://i.ibb.co/f2fC3sh/kung-fu-panda.png" group-title="TV || 24/7 INFANTILES",24/7 | KUNG FU PANDA
+http://cincotv.org:25461/demo1/25demo/23854
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE MICKEY MOUSE" tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV || 24/7 INFANTILES",24/7 | LA CASA DE MICKEY MOUSE
+http://cincotv.org:25461/demo1/25demo/23964
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MINIONS" tvg-logo="https://c0.klipartz.com/pngpicture/94/861/gratis-png-bob-el-minion-stuart-el-minion-logo-de-papel-minions-minions-logo.png" group-title="TV || 24/7 INFANTILES",24/7 | MINIONS
+http://cincotv.org:25461/demo1/25demo/25154
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PAW PATROL" tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV || 24/7 INFANTILES",24/7 | PAW PATROL
+http://cincotv.org:25461/demo1/25demo/25155
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | 2 PERROS TONTOS" tvg-logo="https://i.ibb.co/hg3yhz8/pngwing-com-3.png" group-title="TV || 24/7 INFANTILES",24/7 | 2 PERROS TONTOS
+http://cincotv.org:25461/demo1/25demo/25156
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CARICATURAS CLASICAS" tvg-logo="https://www.islabit.com/wp-content/uploads/2020/01/dibujos-animados-cl%C3%A1sicos.jpg" group-title="TV || 24/7 INFANTILES",24/7 | CARICATURAS CLASICAS
+http://cincotv.org:25461/demo1/25demo/25158
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SUPER CAMPEONES" tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV || 24/7 INFANTILES",24/7 | LOS SUPER CAMPEONES
+http://cincotv.org:25461/demo1/25demo/25160
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAS AVENTURAS DE LADY BUG" tvg-logo="https://i.ibb.co/9VqTRbJ/pngegg-4.png" group-title="TV || 24/7 INFANTILES",24/7 | LAS AVENTURAS DE LADY BUG
+http://cincotv.org:25461/demo1/25demo/25633
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA ERA DE HIELO" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/la-era-de-hielo-m3558592.jpg" group-title="TV || 24/7 INFANTILES",24/7 | LA ERA DE HIELO
+http://cincotv.org:25461/demo1/25demo/139705
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PICAPIEDRA" tvg-logo="https://i.ibb.co/wcn3sFK/PICAPIEDRA.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS PICAPIEDRA
+http://cincotv.org:25461/demo1/25demo/139708
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DORAEMON" tvg-logo="https://www.pngmart.com/files/5/Doraemon-PNG-Pic.png" group-title="TV || 24/7 INFANTILES",24/7 | DORAEMON
+http://cincotv.org:25461/demo1/25demo/171237
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LADYBUG" tvg-logo="https://i.ibb.co/3sb8Mp8/ladybug.png" group-title="TV || 24/7 INFANTILES",24/7 | LADYBUG
+http://cincotv.org:25461/demo1/25demo/182137
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SPIDERMAN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/Spiderman-Logo-1.jpg" group-title="TV || 24/7 INFANTILES",24/7 | SPIDERMAN
+http://cincotv.org:25461/demo1/25demo/186851
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://i.postimg.cc/HsDvFdhW/bob.png" group-title="TV || 24/7 INFANTILES",24/7 | BOB ESPONJA
+http://cincotv.org:25461/demo1/25demo/186852
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL SAGA CELL" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL SAGA CELL
+http://cincotv.org:25461/demo1/25demo/186853
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z " tvg-logo="https://i.ibb.co/7rrD3RB/dragon-frezzer.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL Z 
+http://cincotv.org:25461/demo1/25demo/186854
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DORA LA EXPLORADORA" tvg-logo="https://i.ibb.co/171RJQF/dora.png" group-title="TV || 24/7 INFANTILES",24/7 | DORA LA EXPLORADORA
+http://cincotv.org:25461/demo1/25demo/186855
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEPPA PIG" tvg-logo="https://i.ibb.co/m92ZT9b/Peppa-Pig-Logo.png" group-title="TV || 24/7 INFANTILES",24/7 | PEPPA PIG
+http://cincotv.org:25461/demo1/25demo/186856
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GARFIELD Y SUS AMIGOS" tvg-logo="https://i.ibb.co/Cnh21qZ/garfield.png" group-title="TV || 24/7 INFANTILES",24/7 | GARFIELD Y SUS AMIGOS
+http://cincotv.org:25461/demo1/25demo/186857
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULIN COLORADO ANIMADO" tvg-logo="https://i.ibb.co/1KHxzQY/chapulin-animado.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAPULIN COLORADO ANIMADO
+http://cincotv.org:25461/demo1/25demo/186858
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/k32CM48/Dragon-Ball-Super.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL SUPER
+http://cincotv.org:25461/demo1/25demo/186859
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8" tvg-logo="https://i.ibb.co/LNDxTjG/chavo.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAVO DEL 8
+http://cincotv.org:25461/demo1/25demo/186860
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | POWER RANGERS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/MMPR_Era_Logo.png" group-title="TV || 24/7 INFANTILES",24/7 | POWER RANGERS
+http://cincotv.org:25461/demo1/25demo/186861
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS CABALLEROS DEL ZODIACO" tvg-logo="https://i.ibb.co/pXt30T6/caballeros.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS CABALLEROS DEL ZODIACO
+http://cincotv.org:25461/demo1/25demo/186862
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOM Y JERRY" tvg-logo="https://i.ibb.co/RjtbS0W/tom.png" group-title="TV || 24/7 INFANTILES",24/7 | TOM Y JERRY
+http://cincotv.org:25461/demo1/25demo/186863
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALLS" tvg-logo="https://i.ibb.co/GvXnYXR/gravity.png" group-title="TV || 24/7 INFANTILES",24/7 | GRAVITY FALLS
+http://cincotv.org:25461/demo1/25demo/186864
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SNOOPY" tvg-logo="https://i.pinimg.com/originals/c0/61/23/c0612381508eb90684cd5e6774bb7f48.png" group-title="TV || 24/7 INFANTILES",24/7 | SNOOPY
+http://cincotv.org:25461/demo1/25demo/186865
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THUNDERCATS" tvg-logo="https://www.kindpng.com/picc/m/83-838269_thundercats-logo-png-transparent-png.png" group-title="TV || 24/7 INFANTILES",24/7 | THUNDERCATS
+http://cincotv.org:25461/demo1/25demo/186866
+
+
+
+#EXTINF:-1 tvg-id="LOS SIMPSON" tvg-name="24/7 | LOS SIMPSON" tvg-logo="https://sm.ign.com/ign_es/tv/l/los-simpso/los-simpson-tv_g5rf.jpg" group-title="TV || 24/7 SERIES",24/7 | LOS SIMPSON
 http://170.246.176.234:9999/Live/46005c7cab228ad14d51287489c56960/online-24-7.playlist.m3u8?sfnsn=scwspwa
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS" tvg-logo="https://i.ibb.co/dMQ24v6/simpson.png" group-title="TV || 24/7 SERIES",24/7 | LOS SIMPSONS
+http://cincotv.org:25461/demo1/25demo/186869
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BREAKING BAD" tvg-logo="https://i.ibb.co/nkLBm5k/Breaking-bad.png" group-title="TV || 24/7 SERIES",24/7 | BREAKING BAD
+http://cincotv.org:25461/demo1/25demo/23852
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV || 24/7 SERIES",24/7 | ALF
+http://cincotv.org:25461/demo1/25demo/23940
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOLM EL DEL MEDIO" tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="TV || 24/7 SERIES",24/7 | MALCOLM EL DEL MEDIO
+http://cincotv.org:25461/demo1/25demo/23974
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLINA" tvg-logo="https://imagenesparapeques.com/wp-content/uploads/2022/12/Logo-merlina-Addams.png" group-title="TV || 24/7 SERIES",24/7 | MERLINA
+http://cincotv.org:25461/demo1/25demo/25159
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | VIVOS" tvg-logo="https://www.larepublica.ec/wp-content/uploads/2014/04/Vivos2.png" group-title="TV || 24/7 SERIES",24/7 | VIVOS
+http://cincotv.org:25461/demo1/25demo/25163
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA PELUCHE
+http://cincotv.org:25461/demo1/25demo/25195
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO" tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title="TV || 24/7 SERIES",24/7 | CASO CERRADO
+http://cincotv.org:25461/demo1/25demo/25636
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="TV || 24/7 SERIES",24/7 | CANTINFLAS
+http://cincotv.org:25461/demo1/25demo/28069
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://i.ibb.co/BTsG7rZ/AEROPUERTO.png" group-title="TV || 24/7 SERIES",24/7 | ALERTA AEROPUERTO
+http://cincotv.org:25461/demo1/25demo/101570
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE MANDALORIAN" tvg-logo="https://i.ibb.co/BTzvzbP/pngwing-com-4.png" group-title="TV || 24/7 SERIES",24/7 | THE MANDALORIAN
+http://cincotv.org:25461/demo1/25demo/139703
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | JUEGO DE TRONOS" tvg-logo="https://i.postimg.cc/yYv6r6Jm/JUEGO.png" group-title="TV || 24/7 SERIES",24/7 | JUEGO DE TRONOS
+http://cincotv.org:25461/demo1/25demo/139704
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/Jxkk7nY/peaky.png" group-title="TV || 24/7 SERIES",24/7 | PEAKY BLINDERS
+http://cincotv.org:25461/demo1/25demo/182136
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DARK" tvg-logo="https://dark.netflix.io/share/global.png" group-title="TV || 24/7 SERIES",24/7 | DARK
+http://cincotv.org:25461/demo1/25demo/182138
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLIN" tvg-logo="https://i.ibb.co/DCfhSFH/pngegg-4.png" group-title="TV || 24/7 SERIES",24/7 | MERLIN
+http://cincotv.org:25461/demo1/25demo/182139
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAURA BOZZO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/laura-bozzo-png.png" group-title="TV || 24/7 SERIES",24/7 | LAURA BOZZO
+http://cincotv.org:25461/demo1/25demo/186867
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MR. BEAN" tvg-logo="https://i.ibb.co/gr5gVC6/bean.png" group-title="TV || 24/7 SERIES",24/7 | MR. BEAN
+http://cincotv.org:25461/demo1/25demo/186868
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE GOOD DOCTOR" tvg-logo="https://i.ibb.co/ZSLwgBh/Doctor.png" group-title="TV || 24/7 SERIES",24/7 | THE GOOD DOCTOR
+http://cincotv.org:25461/demo1/25demo/186870
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY PIXAR 1 HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE DISNEY PIXAR 1 HD
+http://cincotv.org:25461/demo1/25demo/24490
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL STUDIO HD
+http://cincotv.org:25461/demo1/25demo/24495
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL ANIMADO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL ANIMADO HD
+http://cincotv.org:25461/demo1/25demo/24496
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 1
+http://cincotv.org:25461/demo1/25demo/75171
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 2
+http://cincotv.org:25461/demo1/25demo/75173
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 3
+http://cincotv.org:25461/demo1/25demo/75174
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 4
+http://cincotv.org:25461/demo1/25demo/75175
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 5
+http://cincotv.org:25461/demo1/25demo/75177
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 6
+http://cincotv.org:25461/demo1/25demo/75178
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ZOMBIE" tvg-logo="https://i.postimg.cc/YC4w600j/zombie.png" group-title="TV || 24/7 CINE",24/7 ZOMBIE
+http://cincotv.org:25461/demo1/25demo/181926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TERROR" tvg-logo="https://i.postimg.cc/kgSxRNQ4/tERROR.png" group-title="TV || 24/7 CINE",24/7 TERROR
+http://cincotv.org:25461/demo1/25demo/181927
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="https://i.postimg.cc/vZJ3CNmG/WALKING.png" group-title="TV || 24/7 CINE",24/7 THE WALKING DEAD
+http://cincotv.org:25461/demo1/25demo/181928
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCREAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV || 24/7 CINE",24/7 SCREAM
+http://cincotv.org:25461/demo1/25demo/181929
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAGAS" tvg-logo="https://i.postimg.cc/2jZqjjrd/SAGAS.png" group-title="TV || 24/7 CINE",24/7 SAGAS
+http://cincotv.org:25461/demo1/25demo/181930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROMANCE" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TV || 24/7 CINE",24/7 ROMANCE
+http://cincotv.org:25461/demo1/25demo/181931
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 1" tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 1
+http://cincotv.org:25461/demo1/25demo/176198
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 2
+http://cincotv.org:25461/demo1/25demo/176199
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 3
+http://cincotv.org:25461/demo1/25demo/176200
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 4
+http://cincotv.org:25461/demo1/25demo/176201
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 5" tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 5
+http://cincotv.org:25461/demo1/25demo/176202
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 6
+http://cincotv.org:25461/demo1/25demo/176203
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 7
+http://cincotv.org:25461/demo1/25demo/176204
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 8" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || CINE NETFLIX",CINE NETFLIX 8
+http://cincotv.org:25461/demo1/25demo/176205
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY+ " tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" group-title="TV || CINE PREMIUM",CINE DISNEY+ 
+http://cincotv.org:25461/demo1/25demo/185032
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || CINE PREMIUM",CINE PARAMOUNT+
+http://cincotv.org:25461/demo1/25demo/185034
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ " tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" group-title="TV || CINE PREMIUM",CINE STAR+ 
+http://cincotv.org:25461/demo1/25demo/185035
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (DISNEY LIVE)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (DISNEY LIVE)
+http://cincotv.org:25461/demo1/25demo/139693
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (ACCION CLASSICS)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (ACCION CLASSICS)
+http://cincotv.org:25461/demo1/25demo/139694
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (NAVIDAD)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (NAVIDAD)
+http://cincotv.org:25461/demo1/25demo/139695
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (LEGO)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (LEGO)
+http://cincotv.org:25461/demo1/25demo/139696
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (HORROR)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (HORROR)
+http://cincotv.org:25461/demo1/25demo/139697
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (ARTES MARCIALES)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (ARTES MARCIALES)
+http://cincotv.org:25461/demo1/25demo/139698
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || CINE PREMIUM",CINEMA FAMILIA
+http://cincotv.org:25461/demo1/25demo/139699
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || CINE PREMIUM",CINEMA COMEDIA
+http://cincotv.org:25461/demo1/25demo/139700
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || CINE PREMIUM",CINEMA TERROR
+http://cincotv.org:25461/demo1/25demo/139701
+
+#EXTINF:-1 tvg-id="" tvg-name="CLASICOS DE DISNEY" tvg-logo="https://i.ibb.co/W5SCmVc/images-1.png" group-title="TV || CINE PREMIUM",CLASICOS DE DISNEY
+http://cincotv.org:25461/demo1/25demo/139702
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo que callamos las mujeres" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4a59809/2147483647/strip/true/crop/3840x2160+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fff%2F75%2F3ba90b0f25ff309d3288d362860d%2Flo-que-callamos-1884415.png" group-title="TV || 24/7 NOVELAS",24/7 Lo que callamos las mujeres
+http://cincotv.org:25461/demo1/25demo/25161
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="TV || 24/7 NOVELAS",24/7 La rosa de Guadalupe
+http://cincotv.org:25461/demo1/25demo/139706
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapo" tvg-logo="https://i.ibb.co/7r8P7kc/pngegg-1.png" group-title="TV || 24/7 NOVELAS",24/7 El Chapo
+http://cincotv.org:25461/demo1/25demo/139707
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Man Es German" tvg-logo="https://image.tmdb.org/t/p/w500/6nhj9wysE3kqWHt0mfYDQ6qxYLo.jpg" group-title="TV || 24/7 NOVELAS",24/7 El Man Es German
+http://cincotv.org:25461/demo1/25demo/253268
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cafe con aroma de mujer" tvg-logo="https://es.web.img2.acsta.net/pictures/17/05/04/19/13/462204.jpg" group-title="TV || 24/7 NOVELAS",24/7 Cafe con aroma de mujer
+http://cincotv.org:25461/demo1/25demo/253269
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Colorina" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZDlmZGYtY2MzNC00MTY0LWI0NTYtZDk3ZWUyMmY1NjQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="TV || 24/7 NOVELAS",24/7 Colorina
+http://cincotv.org:25461/demo1/25demo/253270
+#EXTINF:-1 tvg-id="" tvg-name="24/7 En la piel de Alicia" tvg-logo="https://image.tmdb.org/t/p/w500/ruKyT6ese4jBNNMGgdDXRPARtwE.jpg" group-title="TV || 24/7 NOVELAS",24/7 En la piel de Alicia
+http://cincotv.org:25461/demo1/25demo/253271
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Dama de Rosa" tvg-logo="https://pics.filmaffinity.com/la_dama_de_rosa-731434068-large.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Dama de Rosa
+http://cincotv.org:25461/demo1/25demo/253272
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hija del mariachi" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a9J1rl8X4klFNMLTFGIJIHIjXgf.jpg" group-title="TV || 24/7 NOVELAS",24/7 La hija del mariachi
+http://cincotv.org:25461/demo1/25demo/253273
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Madrastra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Madrastra
+http://cincotv.org:25461/demo1/25demo/253274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Piloto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Piloto
+http://cincotv.org:25461/demo1/25demo/253275
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Prepago" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Prepago
+http://cincotv.org:25461/demo1/25demo/253276
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Reina Del Sur
+http://cincotv.org:25461/demo1/25demo/253277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Leandro Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d6voDsM0it0GPnhfzXiHWLaX0ff.jpg" group-title="TV || 24/7 NOVELAS",24/7 Leandro Diaz
+http://cincotv.org:25461/demo1/25demo/253279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria la del barrio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg" group-title="TV || 24/7 NOVELAS",24/7 Maria la del barrio
+http://cincotv.org:25461/demo1/25demo/253280
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria Mercedes" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg" group-title="TV || 24/7 NOVELAS",24/7 Maria Mercedes
+http://cincotv.org:25461/demo1/25demo/253281
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro El Escamoso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v0DhAsHHiFpMmbe6zWG6F15gh4f.jpg" group-title="TV || 24/7 NOVELAS",24/7 Pedro El Escamoso
+http://cincotv.org:25461/demo1/25demo/253282
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Señora Acero" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg" group-title="TV || 24/7 NOVELAS",24/7 Señora Acero
+http://cincotv.org:25461/demo1/25demo/253283
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sobreviviendo A Escobar" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/97xpke32aNz0XSl6OHLilu9GK63.jpg" group-title="TV || 24/7 NOVELAS",24/7 Sobreviviendo A Escobar
+http://cincotv.org:25461/demo1/25demo/253284
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xica Da Silva" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nildSBtxkstaw0h4rSI7gVZTrMU.jpg" group-title="TV || 24/7 NOVELAS",24/7 Xica Da Silva
+http://cincotv.org:25461/demo1/25demo/253285
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo Soy Betty La Fea" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="TV || 24/7 NOVELAS",24/7 Yo Soy Betty La Fea
+http://cincotv.org:25461/demo1/25demo/253286
+
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 1" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 1 | LA FAMILIA PELUCHE
+http://cincotv.org:25461/demo1/25demo/25195
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 2" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 2 | VECINOS
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/213542
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 3" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 3 | CASO CERRADO
+http://cincotv.org:25461/demo1/25demo/25636
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 4" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 4 | VEVO Latino
+http://cincotv.org:25461/demo1/25demo/74720
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 5" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 5 | VEVO Reggaeton y Trap
+http://cincotv.org:25461/demo1/25demo/74721
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 6" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 6 | La rosa de Guadalupe
+http://cincotv.org:25461/demo1/25demo/139706
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 7" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 7 | LA LIGA TV
+http://cincotv.org:25461/demo1/25demo/181933
+
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 8" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 8 | TUDN USA [FHD]
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/395
+
 
 
 
@@ -2052,7 +2358,7 @@ http://tv.nousiptv.com:8080/guada2019/gfsept2/1155784
 #EXTINF:-1 tvg-id="STAR TVE" tvg-name="CyS | STAR TVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Star_TVE.png/revision/latest?cb=20200124195810&path-prefix=es" group-title="ESPAÑA SERIES HD",CyS | STAR TVE HD
 http://38.41.8.1:8000/play/a01z
 
-#EXTINF:-1 xui-id="289421" tvg-id="eentertainment.mx" tvg-name="HD | E!" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmacPUVkfXme00-ENAhuKBhqNpl9vqVN56qyPXOQFyWdZ4fvktnLTQlEBIB45gbfJ38.png" group-title="☢️ENTRETENIMIENTO HD☢️",HD | E!
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="HD | E!" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmacPUVkfXme00-ENAhuKBhqNpl9vqVN56qyPXOQFyWdZ4fvktnLTQlEBIB45gbfJ38.png" group-title="☢️ENTRETENIMIENTO HD☢️",HD | E!
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/628
 
 #EXTINF:-1 tvg-id="E!" tvg-name="ENT | E!" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="☢️ENTRETENIMIENTO HD☢️",ENT | E! HD
@@ -2120,30 +2426,6 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/630
 
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Hola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="☢️ENTRETENIMIENTO HD☢️",ENT| Hola TV HD
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/631
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 1" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 1 | LA FAMILIA PELUCHE
-http://cincotv.org:25461/demo1/25demo/25195
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 2" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 2 | VECINOS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/213542
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 3" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 3 | CASO CERRADO
-http://cincotv.org:25461/demo1/25demo/25636
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 4" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 4 | VEVO Latino
-http://cincotv.org:25461/demo1/25demo/74720
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 5" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 5 | VEVO Reggaeton y Trap
-http://cincotv.org:25461/demo1/25demo/74721
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 6" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 6 | La rosa de Guadalupe
-http://cincotv.org:25461/demo1/25demo/139706
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 7" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 7 | LA LIGA TV
-http://cincotv.org:25461/demo1/25demo/181933
-
-#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX 8" tvg-logo="https://ayuda.tigo.com.ni/hc/article_attachments/19616247321875" group-title="ZONA VIX",VIX 8 | TUDN USA [FHD]
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/395
 
 
 
@@ -2474,6 +2756,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
 
 
+#EXTINF:-1 tvg-id="Playboy" tvg-name="ADULT | Playboy HD" tvg-logo="https://sm.ign.com/ign_es/tv/l/los-simpso/los-simpson-tv_g5rf.jpg" group-title="ADULT",ADULT | Playboy HD
+http://181.78.86.226:8086/play/a05n
+
 #EXTINF:-1,XXX: ADULTIP 2
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1,XXX: ADULTIP 3
@@ -2556,44 +2841,7 @@ http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/11552
 http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/11553
 #EXTINF:-1,24/7 (XXX) | RedTraffic Threesome HD
 http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/11554
-#EXTINF:-1,24/7 OnlyFans - Aida Cortez
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92212
-#EXTINF:-1,24/7 OnlyFans - HannahJo
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92213
-#EXTINF:-1,24/7 | OnlyFans
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92201
-#EXTINF:-1,24/7 | OnlyFans - Aida Cortez
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/91421
-#EXTINF:-1,24/7 | OnlyFans - Asyabunny
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92206
-#EXTINF:-1,24/7 | OnlyFans - Chloe Cream
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92209
-#EXTINF:-1,24/7 | OnlyFans - Cintia Cossio
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92193
-#EXTINF:-1,24/7 | OnlyFans - Coconey
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92207
-#EXTINF:-1,24/7 | OnlyFans - Dainty Wilder
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127156
-#EXTINF:-1,24/7 | OnlyFans - Ivanka Peach
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127143
-#EXTINF:-1,24/7 | OnlyFans - Karely Ruiz
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92192
-#EXTINF:-1,24/7 | OnlyFans - Levanabanana
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127184
-#EXTINF:-1,24/7 | OnlyFans - Pixei
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92210
-#EXTINF:-1,24/7 | OnlyFans - Raelil Black
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127185
-#EXTINF:-1,24/7 | OnlyFans - SolaZola
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92205
-#EXTINF:-1,24/7 | OnlyFans - VanesaDP19
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92214
-#EXTINF:-1,24/7 | OnlyFans - Veronica Perasso
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127172
-#EXTINF:-1,24/7 | OnlyFans - Whoahannahjo
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92211
-#EXTINF:-1,24/7 | OnlyFans -Auhneesh Nicole
-http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127176
+
 #EXTINF:-1,ADULTOS | Dorcel
 http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/92194
 #EXTINF:-1,ADULTOS | EROTIC_2 LA1
@@ -6821,11 +7069,4 @@ http://cord-cutter.net:8080/3HWgqd/245797/215791
 http://cord-cutter.net:8080/3HWgqd/245797/215792
 #EXTINF:-1,X4 | Elle Lee
 http://cord-cutter.net:8080/3HWgqd/245797/215793
-
-
-
-
-
-
-
 
