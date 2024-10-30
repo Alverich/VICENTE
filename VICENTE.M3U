@@ -141,6 +141,9 @@ http://tv.nousiptv.com:8080/guada2019/gfsept2/32882
 #EXTINF:-1 tvg-id="aztecaUno.mx" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD ✪
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX : Azteca Uno ●
+https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/4e841914-ccd1-4f0d-be9d-76da39e57849.m3u
+
 #EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | AZTECA UNO HD
 https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/86f1835c-1580-4173-b363-8d67abfcd09f.m3u
 
@@ -149,9 +152,6 @@ https://twomonkeys.live:443/Victor1234/Victor1234/591569
 
 #EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",AZTECA UNO (OP2)⭐⭐
 https://twomonkeys.live:443/Victor1234/Victor1234/591570
-
-#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX : Azteca Uno ●
-https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/4e841914-ccd1-4f0d-be9d-76da39e57849.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca UNO.." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Azteca UNO -1 ⭐
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59496
@@ -1060,9 +1060,14 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59641
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59642
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL• LOVE NATURE (HD)
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/451
 
 #EXTINF:-1 tvg-id="Discovery Familia" tvg-name="CUL | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Discovery_Familia_2007-2010.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Familia HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/92921
+
+#EXTINF:-1 tvg-id="Discovery Familia" tvg-name="CUL | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Discovery_Familia_2007-2010.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Familia HD
+https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/0d3eb1e5-c4e9-4647-802a-8ae2ce07e8f3.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | Discovery 4K" tvg-logo="https://i.postimg.cc/D05SXBQY/DCHA4K.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery Channel 4K | Cultural »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59530
@@ -1088,11 +1093,17 @@ http://tv.nousiptv.com:8080/guada2019/gfsept2/4069
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MyC - DISCOVERY CHANNEL
 http://tv.nousiptv.com:8080/guada2019/gfsept2/1155807
 
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | Discovery Channel Lat" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Channel HD
-https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/a9245612-2c2f-459d-bde4-751e3ff2706a.m3u
+#EXTINF:-1 tvg-id="DCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL• DISCOVERY CHANNEL (HD) »1«
+http://premierchile.shop:8080/964367823tv/e5t946/407
 
-#EXTINF:-1 tvg-id="DCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Channel SUR
-https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/959f7ddc-1fcd-41eb-b988-33fe6eaacdfa.m3u
+#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | Discovery Channel Lat" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL• DISCOVERY CHANNEL (HD) »2«
+http://premierchile.shop:8080/964367823tv/e5t946/408
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY CHANNEL (COL)
+http://cincotv.org:25461/demo1/25demo/23756
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (MEX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY CHANNEL (MEX)
+http://cincotv.org:25461/demo1/25demo/23757
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="CUL | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Channel SD
 http://38.41.8.1:8000/play/a07l
@@ -1103,10 +1114,10 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24909
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »2«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL• DISCOVERY H&H (HD) »2«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/413
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Home & Health HD" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery H&H HD | Cultural »3«
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Home & Health HD" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery H&H HD | Cultural »3«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/59439
 
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery H&H ᴴᴰ »4«
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery H&H ᴴᴰ »4«
 http://38.41.8.1:8000/play/a017
 
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC - DISCOVERY HOME & HEALTH ᴴᴰ @
@@ -1335,7 +1346,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/511
 http://181.78.86.226:8086/play/a05z
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN CL (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP• ESPN CL (HD) »1«
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/502
+http://premierchile.shop:8080/964367823tv/e5t946/501
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 CL (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP• ESPN 2 CL (HD) »2«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/503
@@ -1353,7 +1364,7 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/513
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/510
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 LAT (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP• ESPN 3 LAT (HD)
-http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/514
+http://premierchile.shop:8080/964367823tv/e5t946/513
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="DEP | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP | ESPN HD ARG
 http://181.78.86.226:8086/play/a04t
@@ -1505,7 +1516,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="VIX LIGA MX" tvg-name="DEP | VIX LIGA MX" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="⚽LIGA | MÉXICO HD⚽",MX | CANAL VIX LO MEJOR LIGA MX 
 https://twomonkeys.live:443/Victor1234/Victor1234/591705
 
-
 #EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⚽LIGA | MÉXICO HD⚽",MX | CANAL 5 HD (OP1)*
 https://twomonkeys.live:443/Victor1234/Victor1234/591573 
 
@@ -1533,6 +1543,12 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24894
 #EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://pbs.twimg.com/media/Fzv51gGWIAIaMHG?format=jpg&name=4096x4096" group-title="⚽LIGA | MÉXICO HD⚽",VIX LA LIGA MX | TUDN
 https://twomonkeys.live:443/Victor1234/Victor1234/591705
 
+#EXTINF:-1 tvg-id="" tvg-name="││MX││TUDN MEXICO [HD] " tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="⚽LIGA | MÉXICO HD⚽",││DEP ││ TUDN MX (HD) »1«
+http://premierchile.shop:8080/964367823tv/e5t946/553
+
+#EXTINF:-1 tvg-id="" tvg-name="││MX││TUDN MEXICO [HD] " tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="⚽LIGA | MÉXICO HD⚽",││DEP ││ TUDN MX (HD) »2«
+http://premierchile.shop:8080/964367823tv/e5t946/552
+
 #EXTINF:-1 tvg-id="T!DN" tvg-name="DEP | T!DN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="⚽LIGA | MÉXICO HD⚽",*DEPORTES T!DN HD *
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/395
 
@@ -1557,6 +1573,15 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/379
 #EXTINF:-1 tvg-id="FOXS3MEX" tvg-name="DEP | FOX SPORTS 3 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="⚽LIGA | MÉXICO HD⚽",MX | FOX SPORTS 3 HD MEX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/383
 
+#EXTINF:-1 tvg-id="" tvg-name="││MX││TUDN MEXICO [HD] " tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="⚽ TUDN ⚽ HD",││DEP ││ TUDN MX (HD) »1«
+http://premierchile.shop:8080/964367823tv/e5t946/553
+
+#EXTINF:-1 tvg-id="" tvg-name="││MX││TUDN MEXICO [HD] " tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="⚽ TUDN ⚽ HD",││DEP ││ TUDN MX (HD) »2«
+http://premierchile.shop:8080/964367823tv/e5t946/552
+
+#EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN USA" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" group-title="⚽ TUDN ⚽ HD",DLAT | **TD USA HD**
+https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/bb445bad-a0b6-4530-8697-8e2a150e680b.m3u
+
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://elcomercio.pe/resizer/OXRo5UCRVmGzj2diLubZccAFt-w=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IYZJUZOI6ZERXCQKTRJWKOAU64.jpg" group-title="⚽ TUDN ⚽ HD",LD - TUDN DEPORTES FHD
 http://tv.nousiptv.com:8080/guada2019/gfsept2/3962
 
@@ -1565,6 +1590,12 @@ http://tv.nousiptv.com:8080/guada2019/gfsept2/4117
 
 #EXTINF:-1 tvg-id="TUDN USA" tvg-name="DEP | TUDN USA" tvg-logo="https://img.utdstc.com/icon/706/9d3/7069d3d76f388bfada65667b6cb6e486e4a4c36e8e89db639cfe12ef51187c6e:200" group-title="⚽ TUDN ⚽ HD",LD - UNIVISION TUDN USA
 http://tv.nousiptv.com:8080/guada2019/gfsept2/1156010
+
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││  TUDN USA [FHD]" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="⚽ TUDN ⚽ HD", ││MX││ TUDN USA [HD]
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/395
+
+#EXTINF:-1 tvg-id="" tvg-name="││MX││TUDN MEXICO [FHD] " tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="⚽ TUDN ⚽ HD",││MX││TUDN MEXICO [HD] 
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/397
 
 #EXTINF:-1 tvg-id="ESPN1" tvg-name="DEP | ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ESPN HD⚽",LD - ESPN 1 SUR ᴴᴰ
 http://tv.nousiptv.com:8080/guada2019/gfsept2/1155888
@@ -2318,7 +2349,6 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/395
 
 
 
-
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="C/S• A&E (HD) »1«" tvg-logo="http://offshore.lat:8080/images/20519da9b15c2aeac2674f74922083e8.png" group-title="⚡️CINE & SERIES HD⚡️",C/S• A&E (HD) »1«
 http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/103
 
@@ -2431,7 +2461,6 @@ http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/631
 
 #EXTINF:-1 tvg-id="TELEMUNDO PR" tvg-name="PR | TELEMUNDO PR" tvg-logo="https://pbs.twimg.com/profile_images/1423734667879010305/xSul1yKZ_400x400.jpg" group-title="→ TELEMUNDOS ←",PR | TELEMUNDO PR HD
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_540.m3u8
-
 #EXTINF:-1 tvg-id="TI" tvg-name="HD | TELEMUNDO INTERNACIONAL" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/telemundo.jpg" group-title="→ TELEMUNDOS ←",HD | TELEMUNDO INTERNACIONAL HD
 http://tv.nousiptv.com:8080/guada2019/gfsept2/43189
 
@@ -2754,10 +2783,195 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
 
-
-
 #EXTINF:-1 tvg-id="Playboy" tvg-name="ADULT | Playboy HD" tvg-logo="https://sm.ign.com/ign_es/tv/l/los-simpso/los-simpson-tv_g5rf.jpg" group-title="ADULT",ADULT | Playboy HD
 http://181.78.86.226:8086/play/a05n
+
+#EXTINF:-1 tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/bigdick.jpg" group-title="ADULT",||PORN ||ADULT IPTV BIG DICK
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/btits.jpg" group-title="ADULT",||PORN ||ADULT IPTV BIG TITS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png" group-title="ADULT",||PORN || ADULT IPTV FETISH
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image81899326574.webp" group-title="ADULT",||PORN ||Miami Tv XXX
+http://pltvsu.info:8080/cambio2021/3eehYbF8qZ9N/1568
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S2kSwfv.png" group-title="ADULT",||PORN || RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S2kSwfv.png" group-title="ADULT",||PORN || RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvqysKS.png" group-title="ADULT",||PORN || RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WSwI1A.png" group-title="ADULT",||PORN || RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nOaNzu.png" group-title="ADULT",||PORN || RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k85bqov.png" group-title="ADULT",||PORN || RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.redtraffic.xyz/21184.jpg" group-title="ADULT",||PORN || RoccoSiffredi EXCLUSIVE Interracial Anal and SQUIRTING
+http://11216.vod.redtraffic.xyz/ph557f114383e2e/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.redtraffic.xyz/21883.jpg" group-title="ADULT",||PORN || Vicky Andrade
+http://1465.vod.redtraffic.xyz/ph5b1f9da00b1a0/play.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULT",||PORN || VISIT-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="ADULT",||PORN || Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="ADULT",||PORN || Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/932_Anal.png" group-title="ADULT",||PORN || Anal  | US
+http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png" group-title="ADULT",||PORN || Big Ass  | US
+http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png" group-title="ADULT",||PORN || Big Dick  | US
+http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/923_Big_Tits.png" group-title="ADULT",||PORN || Big Tits  | US
+http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/935_Blonde.png" group-title="ADULT",||PORN || Blonde  | US
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png" group-title="ADULT",||PORN || Blowjob  | US
+http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/936_Brunette.png" group-title="ADULT",||PORN || Brunette  | US
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/922_Compilation.png" group-title="ADULT",||PORN || Compilation  | US
+http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/944_Cuckold.png" group-title="ADULT",||PORN || Cuckold  | US
+http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/921_Fetish.png" group-title="ADULT",||PORN || Fetish  | US
+http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png" group-title="ADULT",||PORN || Gangbang  | US
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/946_Gay.png" group-title="ADULT",||PORN || Gay  | US
+http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/920_Hardcore.png" group-title="ADULT",||PORN || Hardcore  | US
+http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/937_Interracial.png" group-title="ADULT",||PORN || Interracial  | US
+http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/934_Latina.png" group-title="ADULT",||PORN || Latina  | US
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="ADULT",||PORN || Lesbian  | US
+http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png" group-title="ADULT",||PORN || Live Cams  | US
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/914_Miami_TV_Mexico.png" group-title="ADULT",||PORN ||Miami TV Mexico  | MX
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/919_MILF.png" group-title="ADULT",||PORN || MILF  | US
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/918_Pornstar.png" group-title="ADULT",||PORN || Pornstar  | US
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/938_POV.png" group-title="ADULT",||PORN || POV  | US
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/941_Rough.png" group-title="ADULT",||PORN || Rough  | US
+http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/917_Russian.png" group-title="ADULT",||PORN || Russian  | US
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/933_Teen.png" group-title="ADULT",||PORN ||Teen  | US
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/940_Threesome.png" group-title="ADULT",||PORN || Threesome  | US
+http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || Asian teen
+https://videos.pornworms.com/media/videos/mp4/61650.mp4?st=VJvOTaiSJHaX6NuR-mPfnA&e=1563018895
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="ADULT",||PORN || BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || dirty anal teen
+https://videos.pornworms.com/media/videos/mp4/60748.mp4?st=_SLPPE59bcKKqtLSB8lqNA&e=1563023197
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULT",||PORN || Dusk
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || German teen Painful
+https://videos.pornworms.com/media/videos/mp4/168631.mp4?st=hdnq4zln5gGafc517p_EDw&e=1563020106
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULT",||PORN || HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="ADULT",||PORN || HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULT",||PORN || Juice
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULT",||PORN || Miami TV
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULT",||PORN || PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULT",||PORN || PlayboyX Tv
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="ADULT",||PORN || PrivateX
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || Redhead teen ass fuck
+https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
+
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="ADULT",||PORN || RedlightX
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="ADULT",||PORN || SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="ADULT",||PORN || Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || teen anal invasion sex
+https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || teen anal Outdoors
+https://videos.pornworms.com/media/videos/mp4/171257.mp4?st=D7B_f5umkp0tSMn84IaQ_g&e=1563019248
+
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULT",||PORN || teen anal pounding
+https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m4Q&e=1563019301
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="ADULT",||PORN || VENUS
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULT",||PORN || You Porn
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT",||PORN || ALINE RIOS AS PANTERAS (Assine nossa LISTA PREMIUM. WhatsApp(47)99626 5594)
+https://spankbang.com/stream/Mjg2Njc5MQ.t3I-1i4WgGxnHF_AlgcL8h03b1I.mp4
+
 
 #EXTINF:-1,XXX: ADULTIP 2
 http://cdn.adultiptv.net/milf.m3u8
@@ -2967,18 +3181,25 @@ http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/91484
 #EXTINF:-1,Penthouse  Gold
 http://tvlatinaplus.com:8080/Mov9238h2nn/982h3dnsndiabf391FDEW/127174
 
-#EXTINF:-1,18yoga.com More Than Friends
+
+#EXTINF:-1 ,18yoga.com More Than Friends
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17279.mp4
-#EXTINF:-1,Action With Housewife
+
+#EXTINF:-1 ,Action With Housewife
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17280.mp4
-#EXTINF:-1,Adorable Teens Anus Angels Compilation Emily Thorne, Genevieve
+
+#EXTINF:-1 ,Adorable Teens Anus Angels Compilation Emily Thorne, Genevieve
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17281.mp4
+
 #EXTINF:-1,Adriana Chechik Bangpov
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17282.mp4
+
 #EXTINF:-1,Aletta Big Tits Fuckin The Lover
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17283.mp4
+
 #EXTINF:-1,American Girl Pounded In The Garden
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17284.mp4
+
 #EXTINF:-1,Amia Miley
 http://tvlatinaplus.com:8080/movie/Mov9238h2nn/982h3dnsndiabf391FDEW/17285.mp4
 #EXTINF:-1,An 18 Year Old Girl With Huge Breasts Gets Fucked
@@ -7069,4 +7290,3 @@ http://cord-cutter.net:8080/3HWgqd/245797/215791
 http://cord-cutter.net:8080/3HWgqd/245797/215792
 #EXTINF:-1,X4 | Elle Lee
 http://cord-cutter.net:8080/3HWgqd/245797/215793
-
