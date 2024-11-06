@@ -45,7 +45,7 @@ http://181.78.86.226:8086/play/a052
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 10 | Expansión MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 10 || Expansión ES*PN 7 HD
 http://181.78.86.226:8086/play/a05k
 
-#EXTINF:-1 xui-id="416820" tvg-id="" tvg-name="MX | Caliente TV HD" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JI5u67RaTAdBbnR4teouP0S020w85Q4_OBX_l7wKHFbi.png" group-title="→ EVENTOS FÚTBOL ←",MX | Caliente TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MX | Caliente TV HD" tvg-logo="https://blob.soyreferee.com/images/2024/8/2/f768x1-58291_58418_5050-focus-0-0-768-432.webp" group-title="→ EVENTOS FÚTBOL ←",MX | Caliente TV HD
 http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/416820.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 14 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 14 || FOX SPORTS PREMIUM ᴴᴰ
@@ -96,10 +96,10 @@ http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/218637
 #EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ EVENTOS FÚTBOL ←",DEP• TUDN MX (HD) »2«
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/10222
 
-#EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ EVENTOS FÚTBOL ←",DEP || TUDN MX  HD
-http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/456663
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ EVENTOS FÚTBOL ←",DEP || TUDN MX  HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/311893.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD) »1«" tvg-logo="https://pbs.twimg.com/profile_images/1790490374240088064/V3eTP4qo_400x400.jpg" group-title="→ EVENTOS FÚTBOL ←",DEP| Zona TUDN USA
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD)" tvg-logo="https://pbs.twimg.com/profile_images/1790490374240088064/V3eTP4qo_400x400.jpg" group-title="→ EVENTOS FÚTBOL ←",DEP| Zona TUDN USA
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/456664
 
 #EXTINF:-1 tvg-id="UNIMÁS" tvg-name="MX | UNIMÁS" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ EVENTOS FÚTBOL ←",UNIMÁS (WXFT-CHICAGO Lucha Libre "AAA"
@@ -112,7 +112,7 @@ http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/53712
 http://daleplay.club:8080/live/JoNnY19330/SancHez11/b71347ee-0e73-40dd-8a3d-9ec536b80529.m3u
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="MX | CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="→ EVENTOS FÚTBOL ←",MX| CANAL 5
-http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/60.m3u
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/226525.m3u
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="→ EVENTOS FÚTBOL ←",MX| CANAL 5
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/270
@@ -141,8 +141,8 @@ https://daleplay.club:443/live/NJ8489JOSEA/JOSEA8489NJ/2d65a703-b942-4cd6-9193-3
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | Azteca 7 HD (OP3)⭐⭐⭐
 http://tv.nousiptv.com:8080/guada2019/gfsept2/1155862
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Texas" tvg-logo="https://i.ibb.co/QkBxM3y/34trfdg213124.png" group-title="→ EVENTOS FÚTBOL ←",TELEMUNDO TEXAS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218332
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Houston" tvg-logo="https://i.ibb.co/QkBxM3y/34trfdg213124.png" group-title="→ EVENTOS FÚTBOL ←",Telemundo Houston (KTMD) (us_lat)
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/68055
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO New York" tvg-logo="https://i.ibb.co/dpMcBXs/e343243212.png" group-title="→ EVENTOS FÚTBOL ←",TELEMUNDO New York
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218325
@@ -156,6 +156,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="aztecaUno.mx" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD ✪
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="HD | Azteca Uno" tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbuWEHM0ehcNwWfrfy1Z3y6Wme-ONgkEV0ybcAF-ZWW2waeFQpIi5H07y1eHAyzUU8.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD⭐
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/258240.m3u
 
 #EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX : Azteca Uno ●
 http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/56.m3u
@@ -172,11 +175,14 @@ https://twomonkeys.live:443/Victor1234/Victor1234/591570
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca UNO.." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Azteca UNO HD⭐
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/9599
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal de Las Estrellas HD
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal de Las Estrellas HD⭐ (OP1)
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/236447
 
-#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="MX| LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX| LAS ESTRELLAS MX
+#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="MX| LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX| CANAL DE LAS ESTRELLAS MX HD⭐⭐ (OP2)
 http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/57.m3u
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="HD | Canal De Las Estrellas" tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHnPLYu8HBSbuD_EuFoBObAe8aYG6amd1Ws0qbAPUCXbazGnrq-WG7aO_LJKf82ok.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal De Las Estrellas HD⭐⭐⭐ (OP3)
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/54.m3u
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | EL CANAL DE LAS ESTRELLAS HD⭐ (OP1)
 http://tv.nousiptv.com:8080/guada2019/gfsept2/4030
@@ -224,7 +230,7 @@ http://tv.nousiptv.com:8080/Gisella21/AB8935/4028
 http://tv.nousiptv.com:8080/Gisella21/AB8935/1155865
 
 #EXTINF:-1 tvg-id="" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX| CANAL 5
-http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/60.m3u
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/226525.m3u
 
 #EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 * HD 
 http://tv.nousiptv.com:8080/guada2019/gfsept2/1155865
@@ -538,10 +544,10 @@ http://38.41.8.1:8000/play/a00u
 #EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",ESPN 7 (HD) »1«
 http://181.78.86.226:8086/play/a05k
 
-#EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",ESPN 7 (HD) »2«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »2«
+#EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",DEP• ESPN 7 (HD) »1«
 http://tv.nousiptv.com:8080/guada2019/gfsept2/42456
 
-#EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ESPN 7
+#EXTINF:-1 tvg-id="ESPN 7" tvg-name="DEP | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ESPN 7 »2«
 http://38.41.8.1:8000/play/a01d
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="DEP | ESPN EXTRA" tvg-logo="https://i.imgur.com/KuGa8.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",LD - ESPN EXTRA SUR HD
@@ -575,7 +581,7 @@ http://tv.nousiptv.com:8080/guada2019/gfsept2/4117
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/185148
 
 #EXTINF:-1 xui-id="245567" tvg-id="tudn.mx" tvg-name="MX | TUDN OP 2" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | TUDN USA OP 2
-http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/242045
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/245567.m3u
 
 #EXTINF:-1 tvg-id="FS1" tvg-name="DEP | FOX SPORTS 1 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",FOX SPORTS 1 HD (OP1)
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/36396
@@ -686,7 +692,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/395
 http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/185148
 
 #EXTINF:-1 xui-id="245567" tvg-id="tudn.mx" tvg-name="MX | TUDN OP 2" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="⚽LIGA | MÉXICO HD⚽",MX | TUDN USA OP 2
-http://home-playtv.com:8080/MGgMBQ645QTB/kfnhpBSkUwLe/242045
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/245567.m3u
 
 #EXTINF:-1 tvg-id="T*DN" tvg-name="DEP | T*DN USA" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="⚽LIGA | MÉXICO HD⚽",US | TUDN HD
 https://twomonkeys.live:443/Victor1234/Victor1234/591686
@@ -1377,7 +1383,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218329
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/800px-Telemundo_logo_2012.svg.png" group-title="││TV││ TELEMUNDO",TELEMUNDO SAN FRANCISCO
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218330
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO TAMPA" tvg-logo="http://fanc.tmsimg.com/assets/s10239_ll_h3_ab.png" group-title="││TV││ TELEMUNDO",TELEMUNDO TAMPA
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO TAMPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/800px-Telemundo_logo_2012.svg.png" group-title="││TV││ TELEMUNDO",TELEMUNDO TAMPA
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218331
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO TEXAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Telemundo_Central_Texas_Logo.png" group-title="││TV││ TELEMUNDO",TELEMUNDO TEXAS
@@ -1544,16 +1550,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="Novelisima" tvg-name="TLN | Novelisima" tvg-logo="https://pbs.twimg.com/media/FD2bzpUXsBIgg5g.jpg" group-title="||⚡️TV Novelas⚡️||",TLN - Novelisima HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="MUS | Bandamax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/BANDAMAX.jpg/revision/latest?cb=20200206222614&path-prefix=es" group-title="❤️MÚSICA HD❤️",HD |  Bandamax HD
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="MUS | Bandamax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/BANDAMAX.jpg/revision/latest?cb=20200206222614&path-prefix=es" group-title="❤️MÚSICA HD❤️",HD | Bandamax HD
 http://tv.nousiptv.com:8080/guada2019/gfsept2/1156056
 
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="MUS | Teleritmo" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="❤️MÚSICA HD❤️",MUS |  Teleritmo HD
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="MUS | Teleritmo" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="❤️MÚSICA HD❤️",MUS | Teleritmo HD
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="Lobo TV HD" tvg-name="MUS | Lobo TV" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="❤️MÚSICA HD❤️",MUS |  Lobo TV HD
+#EXTINF:-1 tvg-id="Lobo TV HD" tvg-name="MUS | Lobo TV" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="❤️MÚSICA HD❤️",MUS | Lobo TV HD
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-name="MUS | Ultra TV Puebla" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="❤️MÚSICA HD❤️",MUS |  Ultra TV Puebla HD
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-name="MUS | Ultra TV Puebla" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="❤️MÚSICA HD❤️",MUS | Ultra TV Puebla HD
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="MUS | VB Media TV" tvg-logo="https://i.imgur.com/0W8kHxt.png" group-title="❤️MÚSICA HD❤️",MUS | VB Media TV HD
@@ -1573,9 +1579,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
 #EXTINF:-1 tvg-id="REGIONAL MX" tvg-name="MUS | REGIONAL MX" tvg-logo="https://i.ytimg.com/vi/vYHjiaWlpQ0/maxresdefault.jpg" group-title="❤️MÚSICA HD❤️",MUS | REGIONAL MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-
-#EXTINF:-1 tvg-id="Ritmos Inolvidables" tvg-name="MUS | Ritmos Inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/ritmosinolvida-16-9_0.jpg" group-title="❤️MÚSICA HD❤️",MUS | Ritmos Inolvidables
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 
 #EXTINF:-1 tvg-id="TU POP FAVORITO" tvg-name="MUS | TU POP FAVORITO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35a2bc019c8bd061ba13c73896633125.webp" group-title="❤️MÚSICA HD❤️",MUS | TU POP FAVORITO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
@@ -6085,6 +6088,607 @@ http://cord-cutter.net:8080/3HWgqd/245797/215791
 http://cord-cutter.net:8080/3HWgqd/245797/215792
 #EXTINF:-1,X4 | Elle Lee
 http://cord-cutter.net:8080/3HWgqd/245797/215793
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14087
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14107
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14108
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14109
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14110
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14111
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14112
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14113
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14114
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14115
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14116
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14117
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14120
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14121
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14122
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14123
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA7
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14124
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA8
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14125
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA10
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14127
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14130
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14131
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14133
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14134
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14135
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14136
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14137
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14138
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14141
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14142
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14143
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14144
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14145
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14146
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14147
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14148
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14149
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14150
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_3 LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14151
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14152
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14153
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14154
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14155
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14156
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14157
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14158
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14159
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14160
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14161
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14162
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14163
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14164
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14166
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14167
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14168
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14169
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA7
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14170
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA9
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14179
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA10
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14187
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14190
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14191
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14192
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14193
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14194
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14195
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA7
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14196
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA8
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14197
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA9
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14198
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA10
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14199
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA11
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14200
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA12
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14201
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA14
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14203
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14204
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14205
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14206
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14207
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14208
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14209
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B1
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14210
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B2
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14211
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B3
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14212
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B4
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14213
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B5
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14214
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/14215
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Gay HD" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Gay HD
+http://ultrapremium.cloud:8080/83keta97pe53sa87/29wuma93weme45/252043
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Gay 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaF-zz0oBfNZXyrsIcNBbAnaBvBkGGhsn0NA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Gay 2 HD
+http://d029dcec.kazmazpaz.ru/iptv/N6RW2X3HSTZFDP/6215/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Anal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU59ZDQwg6ZTCwLmx7QIqJzbHGEK2_4rZHnw&s" group-title="→ ADULTOS DS ←",[+18⭕️] Anal HD
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Asian HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlP-HtEGaSnsVDd-gW_o1CYRSEOcvS5sqcRw&s" group-title="→ ADULTOS DS ←",[+18⭕️] Asian HD
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Asian Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmZh8tfxFpTtRF6j6TiBt50hx4Z18bltJfg&s" group-title="→ ADULTOS DS ←",[+18⭕️] Asian Girls HD
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Ass HD" tvg-logo="https://c4.ttcache.com/thumbnail/2GlVKGbZZIB/288x162/1.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Big Ass HD
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Dick HD" tvg-logo="https://ei.phncdn.com/videos/202308/04/436776791/original/(m=eGNdHgaaaa)(mh=JFSY12UeQt1E405n)15.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Big Dick HD
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Tits HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTAQynvhpSm2oUqpxX8b5_WHO3HneFO-TijQ&s" group-title="→ ADULTOS DS ←",[+18⭕️] Big Tits HD
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Tits Girls HD" tvg-logo="https://ei.phncdn.com/videos/202307/19/435776821/original/(m=q3RKWRYbeGNdHgaaaa)(mh=yitfHFgw8oTTwcDW)0.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Big Tits Girls HD
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blonde Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVf8JAZ91W487n27eus0Vm-YgLDs5j7E97Q&s" group-title="→ ADULTOS DS ←",[+18⭕️] Blonde Girls HD
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blowjob HD" tvg-logo="https://ei.phncdn.com/videos/202311/12/442883281/original/(m=qMUHJ1YbeGNdHgaaaa)(mh=T6F1MXaOUNeDG0RZ)0.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Blowjob HD
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blowjob 2 HD" tvg-logo="https://cdni.pornpics.com/460/7/551/14914867/14914867_074_9cbc.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Blowjob 2 HD
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brasileiras CAM 2" tvg-logo="https://snapshots.xcdnpro.com/thumbnails/Casal__hot_sexy?s=LIcrskGOVJofJqcQnq29ruyHItzxjcKhpSAJ/bvw3Yw=" group-title="→ ADULTOS DS ←",[+18⭕️] Brasileiras CAM 2
+https://cam4-hls.xcdnpro.com/320/cam4-origin-live/vivi298-320-2eb692e5-5442-424a-b6dc-4793d993f71e_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brunette HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhilSF9KTdyjcDUPLla4m5ulgbe1Rd-TlwPA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Brunette HD
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brunette Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaAziM3LFHz0JWwEmfktxoC_kHm9kabX47ZA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Brunette Girls HD
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Compilation HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXkdwwtb5yWcCIbVL0JOzbxEiNRv4aoT5aHg&s" group-title="→ ADULTOS DS ←",[+18⭕️] Compilation HD
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Cuckold HD" tvg-logo="https://pcom77.st-content.com/content/contentthumbs/501086.jpg?secure=DSh47i9R8HYToh03Do5hkA==,1726530690" group-title="→ ADULTOS DS ←",[+18⭕️] Cuckold HD
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV Compilation" tvg-logo="https://okteve.com/wp-content/uploads/media/59eb09001a388f2d691a9b1c83c0f088.jpeg" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV Compilation
+https://s.oxax.tv/3Pe0jpJM6TBvqH1sdPdx_Q/34/1727737300/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Desire TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLSjPMP6yxXHLWywiypHwk-ROr0FXxkS09A&s" group-title="→ ADULTOS DS ←",[+18⭕️] Desire TV FHD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Dorcel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpIyrm4C_nzwi4-Jp_PDiMQ8q2RTPseWczg&s" group-title="→ ADULTOS DS ←",[+18⭕️] Dorcel TV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Dorcel TV FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzjbVoXL9t8xUEMgImRDBthCRBahHAaMCwidItpIWOgeoolSHKbfE5uZ9rkizj4HBPl_rxjaA09RtEPp-j_AGpoUBGCPrS4rrrNlMneJMkBZ3f4xDZE9_Gy2VWztqa2EBZLUVXVxht0kF/w1200-h630-p-k-no-nu/dorcel-tv-logotipo.png" group-title="→ ADULTOS DS ←",[+18⭕️] Dorcel TV FHD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] X4 FHD" tvg-logo="http://206.212.244.71:8080/live/pcox5852@gmail.com/pcox5852@2023/215464.m3u8" group-title="→ ADULTOS DS ←",[+18⭕️] X4 FHD
+http://206.212.244.71:8080/live/pcox5852@gmail.com/pcox5852@2023/215464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Htb беларусь FHD" tvg-logo="https://ei.phncdn.com/videos/202404/18/451259211/original/(m=qWLWJIZbeGNdHgaaaa)(mh=1b_tq5yAn8kdoU5t)0.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Htb беларусь FHD
+http://206.212.244.71:8080/live/pcox5852@gmail.com/pcox5852@2023/215726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] ргвк дагестан Fhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdOrGjZd5AaM90imvRPCHwfKJhIkXH3FdKA&s" group-title="→ ADULTOS DS ←",[+18⭕️] ргвк дагестан Fhd
+http://206.212.244.71:8080/4wVQA7/625159/159952
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Poccия HD" tvg-logo="https://img.pvvstream.pro/preview/xP1k1Kgg0RUSICX4Yy9pxw/-165120769_456243881/i.mycdn.me/getVideoPreview?id=1573049731821&idx=6&type=39&tkn=mI-U2VODj5PYjWH4Ol1D01KerB0&fn=vid_x&c_uniq_tag=TQmeBztA-q7f9WkOAxmGfBurE3-nWfQteESCovRlyOo" group-title="→ ADULTOS DS ←",[+18⭕️] Poccия HD
+https://cv-h.phncdn.com/hls/videos/202204/28/407168431/720P_4000K_407168431.mp4/index-v1-a1.m3u8?uBcdoNi6nQpFgwr7KnbX7UTGeFMEnoEfIovGXeKe0IjWuGGjlHEJ5MlGkbAE7vozjbejRPk3nL2zu7o7bGLuFg988sku-QYxge_C10JnVUtXs1K1ISJlCVIesWTtXaYYIbpXjaGTtwXXm-9YZx3UjS71XhrADf_pzmOrruw7I2FLcpaWZ3z94MmSgLnveMqasl5Y4EXG-Q
+#EXTINF:-1 tvg-id="" tvg-name="LEGALPORNO,COM (центральное тв Ru) FHD" tvg-logo="" group-title="→ ADULTOS DS ←",LEGALPORNO,COM (центральное тв Ru) FHD
+http://168.119.255.170/716/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="" tvg-name="XMO X-RATED MEN ONLY FHD" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169lll/bb/db/22/bbdb225b3c633c2add8acc5a8e1a72ef/bbdb225b3c633c2add8acc5a8e1a72ef.29.jpg" group-title="→ ADULTOS DS ←",XMO X-RATED MEN ONLY FHD
+http://d029dcec.kazmazpaz.ru/iptv/ADVVD9FFGESS9C/6285/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUS: Tht International FHD" tvg-logo="https://th.bing.com/th/id/OIP.wwuPHRmX_1aXJv3CqL9HZAAAAA?rs=1&pid=ImgDetMain" group-title="→ ADULTOS DS ←",RUS: Tht International FHD
+http://d029dcec.kazmazpaz.ru/iptv/ADVVD9FFGESS9C/6170/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUS: Tht International HD" tvg-logo="https://th.bing.com/th/id/OIP.wwuPHRmX_1aXJv3CqL9HZAAAAA?rs=1&pid=ImgDetMain" group-title="→ ADULTOS DS ←",RUS: Tht International HD
+http://d029dcec.kazmazpaz.ru/iptv/ADVVD9FFGESS9C/6170/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORNSTARLOVEGIRLS.COM FHD" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ ADULTOS DS ←",PORNSTARLOVEGIRLS.COM FHD
+http://206.212.244.71:8080/4wVQA7/625159/159952
+#EXTINF:-1 tvg-id="" tvg-name="Aisha Crowd Bondage" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Aisha Crowd Bondage
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alba DeSilva - Private" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Alba DeSilva - Private
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa Tomas - Anal Euphoria 3" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Alexa Tomas - Anal Euphoria 3
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa Tomas - Dorcel Club" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Alexa Tomas - Dorcel Club
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amber Nevada - Dorcel Club" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Amber Nevada - Dorcel Club
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amber Nevada - Hustler" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Amber Nevada - Hustler
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anal Lektion von der älteren Schwester" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Anal Lektion von der älteren Schwester
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anal trio with 2 petite babes" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Anal trio with 2 petite babes
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ana Marco & Francesca DiCaprio - XTime TV" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Ana Marco & Francesca DiCaprio - XTime TV
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apolonia & Alexa - MatureNL" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Apolonia & Alexa - MatureNL
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apolonia - Club Seventeen" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Apolonia - Club Seventeen
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apolonia - Dorcel Club" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Apolonia - Dorcel Club
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ariana Grand - My Sister The Schoolgirl" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Ariana Grand - My Sister The Schoolgirl
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aysha & Norma - Old Young Lesbian" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Aysha & Norma - Old Young Lesbian
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aysha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Aysha (2017)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aysha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Aysha (2017)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betty Foxxx & Mia Milan - Legal Porno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Betty Foxxx & Mia Milan - Legal Porno
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betty Foxxx - Legal Porno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Betty Foxxx - Legal Porno
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BF Says It's so life likel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",BF Says It's so life likel
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blondie Fesser - Crow Bondage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Blondie Fesser - Crow Bondage
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blondie Fesser - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Blondie Fesser - Private
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BridgetteB - Fantasy Massage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",BridgetteB - Fantasy Massage
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CandelaX - GGG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",CandelaX - GGG
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caomei Bala - XXX Shades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Caomei Bala - XXX Shades
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carolina & Natty - ESP RK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Carolina & Natty - ESP RK
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Claudia Bavel - Fake Hostel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Claudia Bavel - Fake Hostel
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Claudia Bavel - Fitness Rooms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Claudia Bavel - Fitness Rooms
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daniela Evans & Paola Guerra - Mature" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Daniela Evans & Paola Guerra - Mature
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adriana Chechik gets tied" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Adriana Chechik gets tied
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catalina shares her" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Catalina shares her
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diana Grace Challenges her" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Diana Grace Challenges her
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filthy Adriana Furiously Drains" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Filthy Adriana Furiously Drains
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabbie & Nia have passionate " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Gabbie & Nia have passionate 
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maitland & Adriana partake" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Maitland & Adriana partake
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maitland trains secretary Riley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Maitland trains secretary Riley
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223661.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Scarlit shares her boyfriend with classmate " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←", Scarlit shares her boyfriend with classmate 
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seductress Lena Paul gets spanked " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Seductress Lena Paul gets spanked 
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexy married brunette has threesome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Sexy married brunette has threesome
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voluptuous September & Sofi have twisted" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Voluptuous September & Sofi have twisted
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dreier in Yogahosen und weißen Socken" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Dreier in Yogahosen und weißen Socken
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Einen Raum mit der Stieschwester teilen -  Gabriela Lopez - Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Einen Raum mit der Stieschwester teilen -  Gabriela Lopez - Family Therapy
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravillas Amateur del Creampie 1 vol. VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Maravillas Amateur del Creampie 1 vol. VI
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravillas Amateur del Creampie 2 vol. VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Maravillas Amateur del Creampie 2 vol. VI
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravillas Amateur del Creampie 3 vol. VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Maravillas Amateur del Creampie 3 vol. VI
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eva Angelina und Sativa Rose Trio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Eva Angelina und Sativa Rose Trio
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Family Anal Amateur" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Family Anal Amateur
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fucking My Step Daughter in her Ass for the First Time - Molly Jane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Fucking My Step Daughter in her Ass for the First Time - Molly Jane
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gala Brown - Butt Formation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Gala Brown - Butt Formation
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Club SeveTeen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Gina Ferocious - Club SeveTeen
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Legal Porno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Gina Ferocious - Legal Porno
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Gina Ferocious - Private
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I picked her up and fucked her hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",I picked her up and fucked her hard
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irina Vega - Box Truck Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Irina Vega - Box Truck Sex
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irina Vega - MariskaX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Irina Vega - MariskaX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jade Presley - Only Blowjob (4k)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Jade Presley - Only Blowjob (4k)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jimena Lago  & Alyssia Kent - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Jimena Lago  & Alyssia Kent - Private
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jimena Lago - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Jimena Lago - Brazzers
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jordi & Aubrey Black - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Jordi & Aubrey Black - Brazzers
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jordi & Reagan Foxx - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Jordi & Reagan Foxx - Brazzers
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jordi & Ryan Keely - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Jordi & Ryan Keely - Brazzers
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Julia De Lucia & Venus Afrodita - Sindrive" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Julia De Lucia & Venus Afrodita - Sindrive
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Julia Roca & Lara West - VivThomas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Julia Roca & Lara West - VivThomas
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katana - WCX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Katana - WCX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katrina Moreno - Public Agent" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Katrina Moreno - Public Agent
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kendra Sunderland & Nia Nacci - Vixen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Kendra Sunderland & Nia Nacci - Vixen
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kendra Sunderland - Blacked Raw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Kendra Sunderland - Blacked Raw
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kesha Ortega - EA MCG1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Kesha Ortega - EA MCG1
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K S Ortega - Family Strokes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",K S Ortega - Family Strokes
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - UNF" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lara Duro - UNF
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - Verso Cinema" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lara Duro - Verso Cinema
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - WCX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lara Duro - WCX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - Zoliboy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lara Duro - Zoliboy
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lilyan Red & Pascals - SubSluts" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lilyan Red & Pascals - SubSluts
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LilyanRed - Fake Taxi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",LilyanRed - Fake Taxi
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liz Rainbow - Beauty And The Senior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Liz Rainbow - Beauty And The Senior
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liz Rainbow - Heavy On Hotties" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Liz Rainbow - Heavy On Hotties
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liz Rainbow - Magma Film" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Liz Rainbow - Magma Film
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Marriage & Other Bad Ideas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Love Marriage & Other Bad Ideas
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucia Fernandez - Box Truck Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lucia Fernandez - Box Truck Sex
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucia Fernandez - Oye Loca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Lucia Fernandez - Oye Loca
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marta La Croft - Bang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Marta La Croft - Bang
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mein Stiefbruder will nicht gehen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Mein Stiefbruder will nicht gehen
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mia Navarro - Cum For Cover" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Mia Navarro - Cum For Cover
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mia Navarro - Mature NL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Mia Navarro - Mature NL
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MILF Step Mom Fucks Son" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",MILF Step Mom Fucks Son
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Montse Swinger - Luke Hardy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Montse Swinger - Luke Hardy
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Montse Swinger - MariskaX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Montse Swinger - MariskaX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nekane - Anal Tempation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Nekane - Anal Tempation
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nekane - KarupsPC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Nekane - KarupsPC
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Erotic Stories" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Erotic Stories
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Friends Sex in House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Friends Sex in House
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Loba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Loba
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Passions" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Passions
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Romance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Romance
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Romance 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Romance 2
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensations Infidelidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensations Infidelidad
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation Tales From The Heart" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation Tales From The Heart
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Sensation The Wedding Day" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",New Sensation The Wedding Day
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One More Time For Sarah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",One More Time For Sarah
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Private Casting X - Paris White - Tightest pussy ever" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Private Casting X - Paris White - Tightest pussy ever
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riding Cock is my Mastery Daddy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Riding Cock is my Mastery Daddy
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salma De Nora & Carolina Abril -MariskaX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Salma De Nora & Carolina Abril -MariskaX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Samia Duarte - Dorcel Club" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Samia Duarte - Dorcel Club
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schritt Mama Öffentlichkeit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Schritt Mama Öffentlichkeit
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sensual Suite Cherie DeVille & Laz Fyre Passionate Oiled Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Sensual Suite Cherie DeVille & Laz Fyre Passionate Oiled Sex
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sex Swing Rimming For Horny Lesbians" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Sex Swing Rimming For Horny Lesbians
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silvia Rubi - Aussie Fellatio Queens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Silvia Rubi - Aussie Fellatio Queens
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step Sisters BFF You think it's hot that your step brother" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Step Sisters BFF You think it's hot that your step brother
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stiefschwester soll ich in dir abspritzen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Stiefschwester soll ich in dir abspritzen
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Susy Gala - Dorcel Club (4k)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Susy Gala - Dorcel Club (4k)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teenikini & Amarna Miller-Valentina Nappi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Teenikini & Amarna Miller-Valentina Nappi
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tetas Culo dolorosa underwood la Grande Negro Horseshit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Tetas Culo dolorosa underwood la Grande Negro Horseshit
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sexual Liberation of Anna Lee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",The Sexual Liberation of Anna Lee
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Submission Of Emma Marx #3 - Exposed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",The Submission Of Emma Marx #3 - Exposed
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Submission Of Emma Marx - Boundaries" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",The Submission Of Emma Marx - Boundaries
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiefer -  Streitendes Paar hat harten und intensiven Sex nach dem Streit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Tiefer -  Streitendes Paar hat harten und intensiven Sex nach dem Streit
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tina Kay - Shane Diesel's Black Bull For Hire #3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Tina Kay - Shane Diesel's Black Bull For Hire #3
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vacation With Step Mom - Dava Foxx - Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Vacation With Step Mom - Dava Foxx - Family Therapy
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wet Pussy Contest At School" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Wet Pussy Contest At School
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XTime - AlexaTomas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",XTime - AlexaTomas
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yemaya Gonzalez - Chicas Loca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Yemaya Gonzalez - Chicas Loca
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoe Doll - Dorcel Club" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Zoe Doll - Dorcel Club
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoe Doll - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Zoe Doll - Private
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A los 18 años me volví una zorra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",A los 18 años me volví una zorra
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amas de casa desmelenadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Amas de casa desmelenadas
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azafatas De Primera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Azafatas De Primera
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad Parodia XXX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Breaking Bad Parodia XXX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Claire Castel deseos de sumisión" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Claire Castel deseos de sumisión
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dominancia y Sumisión" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Dominancia y Sumisión
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expedientes X (Parodia XXX)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Expedientes X (Parodia XXX)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instructora sexual para matrimonios en crisis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Instructora sexual para matrimonios en crisis
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bella durmiente (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",La bella durmiente (1959)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",La infiltrada (2024)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La viuda (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",La viuda (2019)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons parodia XXX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Los Simpsons parodia XXX
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me follarias por dinero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Me follarias por dinero
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Jefe Abusa De Mi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Mi Jefe Abusa De Mi
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi padrastro abusa de mi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Mi padrastro abusa de mi
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Profe Se Aprovecha de Mi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Mi Profe Se Aprovecha de Mi
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Médico de urgencia (Pronto Soccorso)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Médico de urgencia (Pronto Soccorso)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papá Mi coñito Es Mejor Que El De Mamá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Papá Mi coñito Es Mejor Que El De Mamá
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="prison" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",prison
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Profesor  por un 10 me la dejo meter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Profesor  por un 10 me la dejo meter
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violación En Grupo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Violación En Grupo
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Songs (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",9 Songs (2004)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Dirty Shame (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",A Dirty Shame (2004)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ah-ga-ssi.2016.1080p-cast" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Ah-ga-ssi.2016.1080p-cast
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baise-moi[Violame][SubsEspañol][RinconCinefilo.com]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Baise-moi[Violame][SubsEspañol][RinconCinefilo.com]
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Below Her Mouth (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg" group-title="→ VOD ADULTOS XXX ←",Below Her Mouth (2017)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bitter Moon (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg" group-title="→ VOD ADULTOS XXX ←",Bitter Moon (1992)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chroniques sexuelles d'une famille d'aujourd'hui (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg" group-title="→ VOD ADULTOS XXX ←",Chroniques sexuelles d'une famille d'aujourd'hui (2012)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como una novia sin sexo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jXWUKcLWG0kybMtJw78CxRo0v1.jpg" group-title="→ VOD ADULTOS XXX ←",Como una novia sin sexo (2016)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Concussion_2013_HDRip_XViD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jXWUKcLWG0kybMtJw78CxRo0v1.jpg" group-title="→ VOD ADULTOS XXX ←",Concussion_2013_HDRip_XViD
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223782.avi
+#EXTINF:-1 tvg-id="" tvg-name="Das Zimmermädchen Lynn (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jXWUKcLWG0kybMtJw78CxRo0v1.jpg" group-title="→ VOD ADULTOS XXX ←",Das Zimmermädchen Lynn (2015)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desearás al hombre de tu hermana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgvsP9EKaCGNkipRpyCKCuUkLEC.jpg" group-title="→ VOD ADULTOS XXX ←",Desearás al hombre de tu hermana (2017)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diary of a Sex Addict (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgvsP9EKaCGNkipRpyCKCuUkLEC.jpg" group-title="→ VOD ADULTOS XXX ←",Diary of a Sex Addict (2001)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diet of Sex (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgvsP9EKaCGNkipRpyCKCuUkLEC.jpg" group-title="→ VOD ADULTOS XXX ←",Diet of Sex (2014)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DIYSEX (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",DIYSEX (2019)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El extraño del lago.mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",El extraño del lago.mp4
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El sexo de los ángeles (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",El sexo de los ángeles (2012)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joven y alocada (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv51QIOoTftngJK9MUaP6pEHIyO.jpg" group-title="→ VOD ADULTOS XXX ←",Joven y alocada (2012)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ken Park (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf2nPnVspSKxirJ4mz2zEXQYVmz.jpg" group-title="→ VOD ADULTOS XXX ←",Ken Park (2002)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clip (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHlJrDrHwKbaZVm0Pq6vPY3PERr.jpg" group-title="→ VOD ADULTOS XXX ←",Clip (2012)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida de Adèle (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/en27JWtPoF2nsWPqFoI8lj3y66d.jpg" group-title="→ VOD ADULTOS XXX ←",La vida de Adèle (2013)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le notti porno nel mondo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/en27JWtPoF2nsWPqFoI8lj3y66d.jpg" group-title="→ VOD ADULTOS XXX ←",Le notti porno nel mondo (1977)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Les rencontres d'après minuit (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/en27JWtPoF2nsWPqFoI8lj3y66d.jpg" group-title="→ VOD ADULTOS XXX ←",Les rencontres d'après minuit (2013)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lolita (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nTCYIR9kwBDAnbjNlf6IHMEHry.jpg" group-title="→ VOD ADULTOS XXX ←",Lolita (1997)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwSD8oTwL2Dau0gE9pxXY3Zdhh2.jpg" group-title="→ VOD ADULTOS XXX ←",Love (2015)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loving (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwSD8oTwL2Dau0gE9pxXY3Zdhh2.jpg" group-title="→ VOD ADULTOS XXX ←",Loving (2017)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Awkward Sexual Adventure (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwSD8oTwL2Dau0gE9pxXY3Zdhh2.jpg" group-title="→ VOD ADULTOS XXX ←",My Awkward Sexual Adventure (2012)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nymphomaniac. Volumen 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg" group-title="→ VOD ADULTOS XXX ←",Nymphomaniac. Volumen 2 (2013)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Q (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Q (2014)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sex and Zen 2 (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ae2j7FH4CHVr8F2JC0tWvYKpWAv.jpg" group-title="→ VOD ADULTOS XXX ←",Sex and Zen 2 (1996)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexo, amor y otras perversiones (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suaPJQKRY7PhHJtn9AYH2iCwgVC.jpg" group-title="→ VOD ADULTOS XXX ←",Sexo, amor y otras perversiones (2006)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexo fácil, películas tristes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIj1pPOifipNLqqNQfGRHs7DBcO.jpg" group-title="→ VOD ADULTOS XXX ←",Sexo fácil, películas tristes (2014)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shame (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aywgzSw9LK4z3DxMPZsNbzWYqQ1.jpg" group-title="→ VOD ADULTOS XXX ←",Shame (2011)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shortbus (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Shortbus (2006)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Postman Always Rings Twice (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Postman Always Rings Twice (1981)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trois: The Escort (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Trois: The Escort (2004)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Une vraie jeune fille (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Une vraie jeune fille (1976)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/223811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beber de tu sangre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg" group-title="→ VOD ADULTOS XXX ←",Beber de tu sangre (2020)
+http://ultrapremium.cloud:8080/movie/83keta97pe53sa87/29wuma93weme45/1650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Anal 2 HD" tvg-logo="https://ei.phncdn.com/videos/202407/05/454752391/thumbs_13/(m=eaSaaTbaAaaaa)(mh=B-Ue4I_skIAsTe5K)2.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Anal 2 HD
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Arab Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQi3cZ257Uv9yUk78cf3VkuRphBZjiUCB_Ow&s" group-title="→ ADULTOS DS ←",[+18⭕️] Arab Girls HD
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Bazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Bazzers FHD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Ass Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcFcR2sA9SSxsxTChzMXGs_LyjNh0Qt994g&s" group-title="→ ADULTOS DS ←",[+18⭕️] Big Ass Girls HD
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blonde HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvBDV_fG_CV5Ivwiot_gg1m87WYNuo971dQ&s" group-title="→ ADULTOS DS ←",[+18⭕️] Blonde HD
+http://cdn.adultiptv.net/blonde.m3u8
 
 
 
