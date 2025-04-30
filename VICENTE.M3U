@@ -1,16 +1,16 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="VIX LO MEJOR LIGA MX" tvg-name="DEP | VIX LO MEJOR LIGA MX" tvg-logo="https://pbs.twimg.com/media/Fzv51gGWIAIaMHG?format=jpg&name=4096x4096" group-title="→ EVENTOS FÚTBOL ←",MÉX | VIX LO MEJOR LIGA MX HD®
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKlm-vwmCZbF8uJFiNRvrbJg/ts
+http://home-playtv.com:80/RoltyFndz/GBQGK/415404
 
-#EXTINF:-1 tvg-id="LA LIGA" tvg-name="DEP | LA LIGA" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",LD - LA LIGA
-http://home-playtv.com:80/RoltyFndz/GBQGK/203781
+#EXTINF:-1 tvg-id="LA LIGA" tvg-name="DEP | LA LIGA" tvg-logo="https://static.wikia.nocookie.net/fifa/images/a/ad/LaLiga_Santander.png/revision/latest?cb=20180807172252&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",LD - DEP• LA LIGA TV ES (HD)
+http://ultrapremium.cloud:8080/Pardo-8/Angela-4/490
 
-#EXTINF:-1 tvg-id="" tvg-name="DEP | LA LIGA TV BAR ES (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm53RPDi6Lkpv_3sKQZsbtMdkTG4wvsHRhQ&s" group-title="→ EVENTOS FÚTBOL ←",DEP | LA LIGA TV BAR HD
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/491
+#EXTINF:-1 tvg-id="" tvg-name="DEP | LA LIGA TV BAR ES (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm53RPDi6Lkpv_3sKQZsbtMdkTG4wvsHRhQ&s" group-title="→ EVENTOS FÚTBOL ←",DEP | LALIGATV HD HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/77d3ffbb-ab4d-4d3d-b53f-355d50eabe33.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DEP | DEPORTES M+ (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="→ EVENTOS FÚTBOL ←",D-ESP | DEPORTES M+
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKlrHN6bNfqBCgy8KrlI7qAM/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP |  MOVISTAR LA LIGA (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s" group-title="→ EVENTOS FÚTBOL ←",D-ESP || MOVISTAR LA LIGA HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bcba3b71-2419-43c9-a2cb-a8c02479a7e5.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 01 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 01 || UEFA Champions F⚽X $P0RTS 1 Argentina ᴴᴰ 
 http://home-playtv.com:80/RoltyFndz/GBQGK/158518
@@ -31,7 +31,7 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/c0030764-11bf-4ba9-8254-e533606a501
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/253551b2-6ec5-475e-9b6b-7835863b03ed.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 04 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 07 || UEFA  Champions ES*PN ARG 1 HD
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKss4CaZbelvKVw0d-VUCXbg/ts
+http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/167723
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 05 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 08 || UEFA Champions ES*PN ARG 2 HD
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/9ea11491-20f3-42ca-ac4d-b627bae5ee50.m3u
@@ -39,26 +39,35 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/9ea11491-20f3-42ca-ac4d-b627bae5ee5
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 06 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 09 || UEFA Champions ES*PN ARG 3 HD
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/2ade0d27-bb28-47ad-aa55-2196e5ed1b8f.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 07 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 10 || UEFA Champions ES*PN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 04 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 10 || UEFA Champions ESPN FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/09c6dcb8-2bcd-48e0-8ac8-3de37ea6bfd2.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 04 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 11 || UEFA Champions ESPN 2 FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b2fad8ac-cb12-470d-91e2-752f57b83fb9.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 04 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 12 || UEFA Champions ESPN 3 FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4c3f46cd-be2f-43b7-8b70-ca3ab8b9ffdd.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 07 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 13 || UEFA Champions ES*PN 4 HD
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/8e248005-1c24-4459-a471-1329f8da3815.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 08 || UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 11 || UEFA Champions ES*PN 5
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 08 || UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 14 || UEFA Champions ES*PN 5
 http://home-playtv.com:80/RoltyFndz/GBQGK/272499
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 09 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 12 || UEFA Champions ES*PN 6
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 09 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 15 || UEFA Champions ES*PN 6
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/0a290a92-e8aa-4043-8cea-7e55a87c5670.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 10 | Expansión MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 13 || Expansión ES*PN 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 10 | Expansión MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 16 || Expansión ES*PN 7 HD
 http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/418593
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | Caliente TV HD" tvg-logo="https://blob.soyreferee.com/images/2024/8/2/f768x1-58291_58418_5050-focus-0-0-768-432.webp" group-title="→ EVENTOS FÚTBOL ←",MX | Caliente TV HD
 http://home-playtv.com:80/RoltyFndz/GBQGK/558709
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 14 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 14 || FOX SPORTS PREMIUM ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 14 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 17 || FOX SPORTS PREMIUM ᴴᴰ
 http://home-playtv.com:8080/RoltyFndz/GBQGK/158454
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 14 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 15 || FOX SPORTS PREMIUM ᴴᴰ
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKuvkqeUTT0fT1WeAYirt_kM/ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 14 | UEFA Champions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fydLnoH9pMLcSaaTh2eNIpiOobxh5ZIFZg&s" group-title="→ EVENTOS FÚTBOL ←",EVENTO 18 || FOX SPORTS PREMIUM ᴴᴰ
+http://ultrapremium.cloud:8080/Pardo-8/Angela-4/24775
 
 #EXTINF:-1 tvg-id="fox.sports.premium.ar" tvg-name="DEP | FOX Sports Premium op2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" group-title="→ EVENTOS FÚTBOL ←",DEP | FOX Sports Premium op2
 http://home-playtv.com:8080/RoltyFndz/GBQGK/21298
@@ -72,23 +81,14 @@ http://home-playtv.com:80/RoltyFndz/GBQGK/257326
 #EXTINF:-1 tvg-id=" AZTDEPORT" tvg-name="DEP | AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/640px-Aztecadeporteslogo.png" group-title="→ EVENTOS FÚTBOL ←",LD - AZTECA DEPORTES 
 https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKskAEQgBMsajoT7nzjGc-Z8/ts
 
-#EXTINF:-1 tvg-id=" AZTDEPORT" tvg-name="DEP | AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/640px-Aztecadeporteslogo.png" group-title="→ EVENTOS FÚTBOL ←",MX : Azteca Deportes
-http://yourservpan.com:3050/jarvislipscomb@yahoo.com/XXPwvrl79C/670494
-
 #EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN DEPORTES (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="→ EVENTOS FÚTBOL ←",ESPN | DEPORTES HD
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKpCnWw78XpZFJHnGL6SXIDA/ts
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9db9023b-972f-4776-aecf-5386bae176db.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ EVENTOS FÚTBOL ←",HD | ESPN PREMIUM ᴴᴰ
 http://home-playtv.com:80/RoltyFndz/GBQGK/276163
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX | FOX SPORTS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",LA_MEX- : FOX SPORTS PREMIUM HD
 http://home-playtv.com:8080/RoltyFndz/GBQGK/21298
-
-#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="→ EVENTOS FÚTBOL ←",MX | Fox Sports Premium HD
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKjaB02nmw0D6yiOYe3e-t1c/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="→ EVENTOS FÚTBOL ←",MX | Fox Sports Premium
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKkiFy1aoJlil3ODbnYvBWrU/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | LA LIGA MX" tvg-logo="https://pbs.twimg.com/media/Fzv51gGWIAIaMHG?format=jpg&name=4096x4096" group-title="→ EVENTOS FÚTBOL ←",VIX LA LIGA MX | TUDN
 http://home-playtv.com:80/RoltyFndz/GBQGK/415403
@@ -117,8 +117,8 @@ http://home-playtv.com:8080/RoltyFndz/GBQGK/456664
 #EXTINF:-1 tvg-id="Univisión" tvg-name="MX | Univisión" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ EVENTOS FÚTBOL ←",MX | Univision UnimAs Atlanta HD Lucha Libre AAA 
 http://home-playtv.com:8080/RoltyFndz/GBQGK/53712
 
-#EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | CANAL 5 HD (OP1)*
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKhACMMfbdLVz-beSscsQWEg/ts
+#EXTINF:-1 tvg-id="Canal 5*" tvg-name="MX | Canal 5*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | Canal 5 HD
+http://home-playtv.com:80/RoltyFndz/GBQGK/241991
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5" tvg-logo="http://goldfull.pro:8880/images/a6347a1fdacab7eaee2f8a72a0dc421d.png" group-title="→ EVENTOS FÚTBOL ←",Latino MX| CANAL 5 HD®
 http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/135430
@@ -126,7 +126,7 @@ http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/135430
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="→ EVENTOS FÚTBOL ←",MX| CANAL 5
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/5d01c94d-5dad-46c6-b532-e29da7c7cb3a.m3u
 
-#EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | LA_HD_MEX2:Canal 5 HD (OP2)**
+#EXTINF:-1 tvg-id="Canal 5 *" tvg-name="MX | Canal 5*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | LA_HD_MEX2 : Canal 5 HD (OP2)**
 http://home-playtv.com:8080/RoltyFndz/GBQGK/186607
 
 #EXTINF:-1 tvg-id="Canal 5*" tvg-name="MX | Canal 5*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="→ EVENTOS FÚTBOL ←",*MX | Canal 5* HD (OP3)***
@@ -139,31 +139,33 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/1974a50b-a1f4-4bdd-a361-4c4810c0e3e
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | LA_HD_MEX2 : Azteca 7 HD (OP2)⭐⭐
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKpfCsykLDGf_fcxk-CF3yXE/ts
-
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | Azteca 7 HD (OP3)⭐⭐⭐
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKvrk14e_t7eerLPsYZMqMas/ts
-
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX : AZTECA 7
-http://yourservpan.com:3050/jarvislipscomb@yahoo.com/XXPwvrl79C/670543
+http://visitmy.collegefan.org:80/ronron06/Alissa01-/775772
 
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Houston" tvg-logo="https://i.ibb.co/QkBxM3y/34trfdg213124.png" group-title="→ EVENTOS FÚTBOL ←",US | TM HOUSTON op2
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKuGHP5J4ZgYagNKMDHExM0M/ts
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/269526db-264f-4785-baf8-d5dabb8bb870.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO New York" tvg-logo="https://i.ibb.co/dpMcBXs/e343243212.png" group-title="→ EVENTOS FÚTBOL ←",TELEMUNDO New York
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKpcpcTEyupqI3eNcu5g_V90/ts
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b0f4e434-7bb0-439a-a174-16f9a3235c13.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO - Latino" tvg-logo="https://i.ibb.co/dpMcBXs/e343243212.png" group-title="→ EVENTOS FÚTBOL ←",TELEMUNDO - Latino
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKhUIlll2SA5PbZ0TLwgz0jI/ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO - Latino" tvg-logo="https://i.ibb.co/dpMcBXs/e343243212.png" group-title="→ EVENTOS FÚTBOL ←",TELEMUNDO - MÉXICO
+http://visitmy.collegefan.org:80/ronron06/Alissa01-/775858
 
 #EXTINF:-1 tvg-id="" tvg-name="Univisión Houston" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/houston/univision-45.png" group-title="→ EVENTOS FÚTBOL ←",USA LAT | Univisión Houston
 http://home-playtv.com:8080/RoltyFndz/GBQGK/184122
 
-#EXTINF:-1 tvg-id="DIRECTV S1" tvg-name="DEP | DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="→ EVENTOS FÚTBOL ←",LD - DIRECTV SPORTS
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKqos_wdZDUffuk4ZaNE2gg4/ts
+
+#EXTINF:-1 tvg-id="DIRECTV" tvg-name="DEP | DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="→ EVENTOS FÚTBOL ←",DEP | DIRECTV SPORTS HD ARG
+http://home-playtv.com:80/RoltyFndz/GBQGK/310533
+
+#EXTINF:-1 tvg-id="DIRECTV S1" tvg-name="DEP | DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="→ EVENTOS FÚTBOL ←",DEP | DIRECTV SPORTS 1 HD ARG
+http://home-playtv.com:80/RoltyFndz/GBQGK/158511
 
 #EXTINF:-1 tvg-id="DIRECTV S2" tvg-name="DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ EVENTOS FÚTBOL ←",LD - DIRECTV SPORTS 2 HD
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKn-1HjEYLcFuEdbZwvxW4GY/ts
+http://home-playtv.com:80/RoltyFndz/GBQGK/257326
+
+#EXTINF:-1 tvg-id="DIRECTV S2" tvg-name="DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ EVENTOS FÚTBOL ←",DEP | DIRECTV SPORTS  2 HD COL
+http://home-playtv.com:80/RoltyFndz/GBQGK/257326
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ MEXICO|LTV ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",▁ ▂ ▄ ▅ ▆☆ MEXICO|LTV ☆▆ ▅ ▄ ▂ ▁
@@ -176,7 +178,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/7e4961f0-0642-412f-962b-8ea1699c28e3.m3u
 
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX: AZTECA 1
-http://yourservpan.com:3050/jarvislipscomb@yahoo.com/XXPwvrl79C/670544
+http://visitmy.collegefan.org:80/ronron06/Alissa01-/775773
 
 #EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX : Azteca Uno ●
 http://ahostingportal.com:8000/62664054820/5271593547/10207
@@ -184,20 +186,14 @@ http://ahostingportal.com:8000/62664054820/5271593547/10207
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX | AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | AZTECA UNO⭐
 http://ahostingportal.com:8000/62664054820/5271593547/9989
 
-#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | AZTECA UNO HD
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKjnnP-Tti9T8u9yWE8YRL30/ts
-
 #EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Azteca Uno HD®
 http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/55055
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",❄ MX | Canal de Las Estrellas HD⭐ (OP1)
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",❄ MX | Canal de Las Estrellas HD⭐ (OP1)
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/a544ce76-dba7-4053-bcb0-62e8f667b065.m3u
-
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",❄ MX | Canal de Las Estrellas HD⭐ (OP2)
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKlT5iZsvA5NvKD_1QRh4Zkg/ts
-
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",❄ MX || Las Estrellas HD® OP3
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKu1dHSifkZOZVLWCFfz0kyM/ts
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",❄ MX || Las Estrellas UHD® OP1
 http://home-playtv.com:80/RoltyFndz/GBQGK/415379
@@ -236,7 +232,7 @@ http://home-playtv.com:80/RoltyFndz/GBQGK/186607
 http://ahostingportal.com:8000/62664054820/5271593547/10252
 
 #EXTINF:-1 tvg-id="Canal 5 * HD" tvg-name="MX | Canal 5 *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 * HD (OP2)
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKhACMMfbdLVz-beSscsQWEg/ts
+http://visitmy.collegefan.org:80/ronron06/Alissa01-/775780
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Azteca 7 HD®
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/03b51641-dbeb-4ded-ad3a-cd294e4a2529.m3u
@@ -251,7 +247,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 http://ahostingportal.com:8000/62664054820/5271593547/9988
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX : AZTECA 7
-http://yourservpan.com:3050/jarvislipscomb@yahoo.com/XXPwvrl79C/670543
+http://visitmy.collegefan.org:80/ronron06/Alissa01-/775772
 
 #EXTINF:-1 tvg-id="Azteca a más + FHD" tvg-name="MX | Azteca a más +" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bb/A_logo.jpg/revision/latest/scale-to-width-down/230?cb=20170327025222&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca a más + FHD
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -278,10 +274,10 @@ http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/59498
 http://home-playtv.com:8080/RoltyFndz/GBQGK/415388
 
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="MX | UNICABLE" tvg-logo="https://i.pinimg.com/564x/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX - UNICABLE HD ⭐⭐
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKlZlQfR8eRqPms2z-RA7ISU/ts
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d06da579-3ece-4ab6-a325-617642224726.m3u
 
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="MX | UNICABLE" tvg-logo="https://i.pinimg.com/564x/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX - UNICABLE FHD
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKpHpBRAN3O9eRfY74M2ZR_4/ts
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3ba692dd-2590-4b96-a2a2-a090c64a42fe.m3u
 
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-name="MX | ESTRELLA TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX : ESTRELLA TV ● @
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -312,6 +308,9 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
 #EXTINF:-1 tvg-id="Canal 6 Nacional.mx" tvg-name="MX | Canal 6 Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 6 Nacional HD
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-name="MX | Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",Canal 6 CDMX
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-name="MX | Multimedios Puebla" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Multimedios Puebla FHD
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
